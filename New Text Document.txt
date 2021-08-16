@@ -1,0 +1,8 @@
+from sklearn.preprocessing import minmax_scale
+digits.data = minmax_scale(digits.data)
+digits.target = minmax_scale(digits.target)
+from sklearn.preprocessing import minmax_scale
+digits.data = minmax_scale(digits.data)
+digits.target = minmax_scale(digits.target)
+from sklearn.neural_network import MLPRegressor
+regressor = MLPRegressor(hidden_layer_sizes=30, activation='logistic', max_iter = 200, verbose=1)

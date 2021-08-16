@@ -1,0 +1,718 @@
+manufacturer,model,version,fuel_date,odometer,trip_distance(km),quantity(kWh),fuel_type,tire_type,city,motor_way,country_roads,driving_style,consumption(kWh/100km),A/C,park_heating,avg_speed(km/h),ecr_deviation,fuel_note,tire_type_enc,driving_style_enc
+Volkswagen,Golf,e-Golf,0.610891204,75140,67,7.97,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,45.0,-0.8,Restreichweite 100km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.52755787,74977,106,12.29,Electricity,Summer tires,1,1,1,Moderate,11.6,0,0,52.0,-1.1,CCS St.Katarina Restreichweite 56km = Total 162km,0,0
+Volkswagen,Golf,e-Golf,0.485891204,74871,66,7.59,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,44.0,-1.2,Restreichweite 105km = Total 171km,0,1
+Volkswagen,Golf,e-Golf,0.444224537,74805,99,11.48,Electricity,Summer tires,1,0,1,Moderate,11.6,0,0,41.0,-1.1,Restreichweite 72km = Total 171km,0,0
+Volkswagen,Golf,e-Golf,0.360891204,74706,112,12.76,Electricity,Summer tires,1,1,1,Moderate,11.4,0,0,40.0,-1.3,Restreichweite 50km = Total 162km,0,0
+Volkswagen,Golf,e-Golf,0.15255787,74594,13,1.67,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,39.0,0.2,25.5°C,0,1
+Volkswagen,Golf,e-Golf,0.110891204,74581,79,8.45,Electricity,Summer tires,1,0,1,Moderate,10.7,0,0,43.0,-2.0,18.5°C,0,0
+Volkswagen,Golf,e-Golf,31.05.2021,74502,114,13.79,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,57.0,-0.6,Restreichweite 34km = Total 148km,0,1
+Volkswagen,Golf,e-Golf,29.05.2021,74361,116,14.38,Electricity,Summer tires,1,1,1,Moderate,12.4,0,0,59.0,-0.3,CCS,0,0
+Volkswagen,Golf,e-Golf,28.05.2021,74219,145,16.96,Electricity,Summer tires,1,1,1,Moderate,11.7,0,0,55.0,-1.0,CCS Rastplatz Mumpf-Süd ,0,0
+Volkswagen,Golf,e-Golf,27.05.2021,74074,41,4.75,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,44.0,-1.1,16.5°C,0,1
+Volkswagen,Golf,e-Golf,26.05.2021,74033,137,16.02,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,39.0,-1.0,Restreichweite 12km = Total 149km,0,1
+Volkswagen,Golf,e-Golf,24.05.2021,73874,61,7.14,Electricity,Summer tires,1,0,1,Moderate,11.7,0,0,39.0,-1.0,13.5°C,0,0
+Volkswagen,Golf,e-Golf,0.860196759,73697,79,8.37,Electricity,Summer tires,1,1,1,Moderate,10.6,0,0,42.0,-2.1,16°C,0,0
+Volkswagen,Golf,e-Golf,0.860196759,73618,55,6.93,Electricity,Summer tires,1,0,1,Moderate,12.6,0,0,36.0,-0.1,Gratisladung in Uniklinik Balgrist,0,0
+Volkswagen,Golf,e-Golf,0.818530093,73563,69,8.83,Electricity,Summer tires,1,0,1,Normal,12.8,0,0,45.0,0.1,Restreichweite 92km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.776863426,73494,69,9.59,Electricity,Summer tires,1,0,1,Normal,13.9,0,0,43.0,1.2,Restreichweite 85km = Total 154km,0,1
+Volkswagen,Golf,e-Golf,0.735196759,73425,63,8.76,Electricity,Summer tires,1,0,1,Normal,13.9,0,0,36.0,1.2,11°C,0,1
+Volkswagen,Golf,e-Golf,0.610196759,73362,91,11.28,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,44.0,-0.3,Restreichweite 70km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.485196759,73271,103,12.26,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,42.0,-0.8,12°C,0,1
+Volkswagen,Golf,e-Golf,0.401863426,73168,112,11.87,Electricity,Summer tires,1,1,1,Moderate,10.6,0,0,53.0,-2.1,21°C,0,0
+Volkswagen,Golf,e-Golf,0.401863426,73056,31,3.63,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,40.0,-1.0,27.5°C,0,1
+Volkswagen,Golf,e-Golf,0.318530093,73025,59,8.61,Electricity,Summer tires,1,0,1,Normal,14.6,0,0,37.0,1.9,12.5°C,0,1
+Volkswagen,Golf,e-Golf,0.235196759,72966,78,10.76,Electricity,Summer tires,1,0,1,Normal,13.8,0,0,45.0,1.1,"13.0°C, Restreichweite 72km = Total 150km",0,1
+Volkswagen,Golf,e-Golf,0.193530093,72888,21,3.02,Electricity,Summer tires,1,0,1,Normal,14.4,0,0,45.0,1.7,14.5°C,0,1
+Volkswagen,Golf,e-Golf,0.151863426,72867,30,4.11,Electricity,Summer tires,1,0,1,Normal,13.7,0,0,49.0,1.0,14.5°C,0,1
+Volkswagen,Golf,e-Golf,0.110196759,72837,49,7.2,Electricity,Summer tires,1,0,1,Normal,14.7,0,0,43.0,2.0,9.0°C,0,1
+Volkswagen,Golf,e-Golf,29.04.2021,72788,108,13.93,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,53.0,0.2,"14°C, Restreichweite 35km = Total 143km",0,1
+Volkswagen,Golf,e-Golf,28.04.2021,72680,52,5.62,Electricity,Summer tires,1,0,1,Moderate,10.8,0,0,46.0,-1.9,18°C,0,0
+Volkswagen,Golf,e-Golf,27.04.2021,72628,51,6.17,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,45.0,-0.6,19.0°C,0,1
+Volkswagen,Golf,e-Golf,25.04.2021,72577,71,8.31,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,17.5°C,0,1
+Volkswagen,Golf,e-Golf,0.942835648,72506,59,6.9,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,14.5°C,0,1
+Volkswagen,Golf,e-Golf,0.859502315,72447,57,8.09,Electricity,Summer tires,1,0,1,Normal,14.2,0,0,48.0,1.5,13.5°C,0,1
+Volkswagen,Golf,e-Golf,0.692835648,72390,73,11.02,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,42.0,2.4,11°C,1,1
+Volkswagen,Golf,e-Golf,0.609502315,72317,82,10.0,Electricity,Winter tires,1,0,1,Moderate,12.2,0,0,49.0,-0.5,7.5°C,1,0
+Volkswagen,Golf,e-Golf,0.567835648,72235,41,7.26,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,48.0,5.0,2°C,1,1
+Volkswagen,Golf,e-Golf,0.442835648,72194,109,12.61,Electricity,Winter tires,1,0,1,Moderate,11.57,0,0,46.0,-1.13,16°C,1,0
+Volkswagen,Golf,e-Golf,0.359502315,72085,55,6.16,Electricity,Winter tires,1,0,1,Moderate,11.2,0,0,40.0,-1.5,10°C,1,0
+Volkswagen,Golf,e-Golf,0.317835648,72030,16,2.45,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,48.0,2.6,2°C,1,1
+Volkswagen,Golf,e-Golf,0.317835648,72014,99,15.25,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,50.0,2.7,"3.5°C, Restreichweite 17km = Total 116km",1,1
+Volkswagen,Golf,e-Golf,0.276168981,71915,21,3.97,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,46.0,6.2,1°C,1,1
+Volkswagen,Golf,e-Golf,0.234502315,71894,41,4.96,Electricity,Winter tires,1,0,1,Moderate,12.1,0,0,58.0,-0.6,7°C,1,0
+Volkswagen,Golf,e-Golf,0.192835648,71853,103,11.23,Electricity,Winter tires,1,0,1,Moderate,10.9,0,0,43.0,-1.8,18°C,1,0
+Volkswagen,Golf,e-Golf,0.067835648,71750,27,3.4,Electricity,Winter tires,1,0,1,Moderate,12.6,0,0,49.0,-0.1,"6°C, Restreichweite 137km = Total 164km",1,0
+Volkswagen,Golf,e-Golf,31.03.2021,71723,104,13.31,Electricity,Winter tires,1,1,1,Normal,12.8,1,0,57.0,0.1,"23.5°C, Restreichweite 40km = Total 144km",1,1
+Volkswagen,Golf,e-Golf,30.03.2021,71619,21,2.75,Electricity,Winter tires,1,0,1,Normal,13.1,1,0,47.0,0.4,"15°C, Restreichweite 149km = Total 170km",1,1
+Volkswagen,Golf,e-Golf,28.03.2021,71479,65,7.35,Electricity,Winter tires,1,0,1,Normal,11.3,1,0,42.0,-1.4,"15°C, Restreichweite 106km = Total 171km",1,1
+Volkswagen,Golf,e-Golf,25.03.2021,71414,120,14.04,Electricity,Winter tires,1,0,1,Normal,11.7,1,0,46.0,-1.0,"15.5°C, Restreichweite 37km = Total 157km",1,1
+Volkswagen,Golf,e-Golf,0.98380787,71294,85,11.47,Electricity,Winter tires,1,1,1,Normal,13.5,1,0,51.0,0.8,"7.5°C, Restreichweite 71km = Total 156km",1,1
+Volkswagen,Golf,e-Golf,0.942141204,71209,31,5.2,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,47.0,4.1,"5.0°C, Restreichweite 111km = Total 141km",1,1
+Volkswagen,Golf,e-Golf,0.900474537,71178,80,13.04,Electricity,Winter tires,1,0,1,Normal,16.3,1,0,47.0,3.6,"4.5°C, Restreichweite 38km = Total 118km",1,1
+Volkswagen,Golf,e-Golf,0.73380787,71098,70,10.92,Electricity,Winter tires,1,0,1,Normal,15.6,1,0,48.0,2.9,"6°C, Restreichweite 74km = Total 144km",1,1
+Volkswagen,Golf,e-Golf,0.73380787,71028,101,16.36,Electricity,Winter tires,1,1,1,Normal,16.2,1,0,50.0,3.5,"4.5°C, Restreichweite 17km = Total 118km Laden CCS Bad Zurzach nur Parkgebühr Fr.1.-",1,1
+Volkswagen,Golf,e-Golf,0.692141204,70927,80,13.52,Electricity,Winter tires,1,0,1,Normal,16.9,1,0,46.0,4.2,"4°C,Restreichweite 37km = Total 117km",1,1
+Volkswagen,Golf,e-Golf,0.525474537,70847,89,14.68,Electricity,Winter tires,1,0,1,Normal,16.5,1,0,47.0,3.8,Restreichweite 22km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.35880787,70758,60,8.88,Electricity,Winter tires,1,0,1,Normal,14.8,1,0,45.0,2.1,"6.5°C, Restreichweite 77km = Total 137km",1,1
+Volkswagen,Golf,e-Golf,0.23380787,70698,106,14.84,Electricity,Winter tires,1,0,1,Normal,14.0,1,0,40.0,1.3,"5°C, Restreichweite 21km = Total 127km",1,1
+Volkswagen,Golf,e-Golf,0.067141204,70592,105,14.28,Electricity,Winter tires,1,1,1,Normal,13.6,1,0,48.0,0.9,Restreichweite 31km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,28.02.2021,70487,33,5.04,Electricity,Winter tires,1,0,1,Normal,15.3,1,0,39.0,2.6,Restreichweite 128km = Total 161km,1,1
+Volkswagen,Golf,e-Golf,24.02.2021,70454,98,13.23,Electricity,Winter tires,1,0,1,Normal,13.5,1,0,45.0,0.8,"15.5°C, Restreichweite 32km = Total 130km",1,1
+Volkswagen,Golf,e-Golf,0.858113426,70356,119,17.13,Electricity,Winter tires,1,1,1,Normal,14.4,1,0,52.0,1.7,"6.0°C, Restreichweite 11km = Total 130km",1,1
+Volkswagen,Golf,e-Golf,0.816446759,70237,55,8.19,Electricity,Winter tires,1,0,1,Normal,14.9,1,0,43.0,2.2,"7.5°C, Restreichweite 66km = Total 121km",1,1
+Volkswagen,Golf,e-Golf,0.774780093,70182,73,13.72,Electricity,Winter tires,1,0,1,Normal,18.8,1,0,43.0,6.1,"3.0°C, Restreichweite 27km = Total 100km",1,1
+Volkswagen,Golf,e-Golf,0.566446759,70109,61,11.4,Electricity,Winter tires,1,0,1,Normal,18.7,1,0,49.0,6.0,"-5.5°C, Restreichweite 52km = Total 112km",1,1
+Volkswagen,Golf,e-Golf,0.483113426,70016,23,5.4,Electricity,Winter tires,1,0,1,Normal,23.5,1,0,36.0,10.8,"-3.5°C, Restreichweite 97km = Total 120km",1,1
+Volkswagen,Golf,e-Golf,0.441446759,69993,21,4.76,Electricity,Winter tires,1,0,1,Normal,22.7,1,0,42.0,10.0,"-4.5°C, Restreichweite 109km = Total 130km",1,1
+Volkswagen,Golf,e-Golf,0.399780093,69972,25,3.47,Electricity,Winter tires,1,0,1,Normal,13.9,1,0,47.0,1.2,"4°C, Strecke leicht abwärts",1,1
+Volkswagen,Golf,e-Golf,0.399780093,69947,45,8.46,Electricity,Winter tires,1,1,1,Normal,18.8,1,0,52.0,6.1,4°C,1,1
+Volkswagen,Golf,e-Golf,0.358113426,69902,22,4.29,Electricity,Winter tires,1,0,1,Normal,19.5,1,0,46.0,6.8,0.5°C,1,1
+Volkswagen,Golf,e-Golf,0.358113426,69880,62,10.29,Electricity,Winter tires,1,0,1,Normal,16.6,1,0,44.0,3.9,1.5°C,1,1
+Volkswagen,Golf,e-Golf,0.149780093,69713,51,8.26,Electricity,Winter tires,1,0,1,Normal,16.2,1,0,43.0,3.5,"7.5°C, Restreichweite 79km = Total 130km",1,1
+Volkswagen,Golf,e-Golf,0.066446759,69662,69,10.76,Electricity,Winter tires,1,0,1,Normal,15.6,1,0,48.0,2.9,"7°C, Restreichweite 64km = Total 133km",1,1
+Volkswagen,Golf,e-Golf,31.01.2021,69593,79,12.79,Electricity,Winter tires,1,0,1,Normal,16.2,1,0,45.0,3.5,"5.5°C, Restreichweite 42km = Total 121km",1,1
+Volkswagen,Golf,e-Golf,27.01.2021,69514,62,11.84,Electricity,Winter tires,1,0,1,Normal,19.1,1,0,46.0,6.4,0°C Restreichweite 52km = Total 114km,1,1
+Volkswagen,Golf,e-Golf,26.01.2021,69452,37,5.8,Electricity,Winter tires,1,1,1,Normal,15.7,1,0,49.0,3.0,3°C ,1,1
+Volkswagen,Golf,e-Golf,26.01.2021,69415,70,13.44,Electricity,Winter tires,1,0,1,Normal,19.2,1,0,47.0,6.5,2°C / CCS Agrola Höri 48Rp./Kwh ,1,1
+Volkswagen,Golf,e-Golf,24.01.2021,69345,47,9.44,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,43.0,7.4,-2°C,1,1
+Volkswagen,Golf,e-Golf,0.857418981,69298,78,15.67,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,46.0,7.4,0°C,1,1
+Volkswagen,Golf,e-Golf,0.690752315,69220,24,5.18,Electricity,Winter tires,1,0,1,Normal,21.6,1,0,37.0,8.9,-3.5°C,1,1
+Volkswagen,Golf,e-Golf,0.649085648,69196,21,3.9,Electricity,Winter tires,1,0,1,Normal,18.6,1,0,39.0,5.9,1.5°C,1,1
+Volkswagen,Golf,e-Golf,0.607418981,69119,103,17.3,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,45.0,4.1,0°C,1,1
+Volkswagen,Golf,e-Golf,0.482418981,69016,21,4.68,Electricity,Winter tires,1,0,1,Normal,22.3,1,0,47.0,9.6,-3°C,1,1
+Volkswagen,Golf,e-Golf,0.440752315,68995,33,6.4,Electricity,Winter tires,1,0,1,Normal,19.4,1,0,40.0,6.7,Restreichweite 81km = Total 114km,1,1
+Volkswagen,Golf,e-Golf,0.315752315,68962,13,2.69,Electricity,Winter tires,1,0,1,Normal,20.7,1,0,41.0,8.0,-3°C,1,1
+Volkswagen,Golf,e-Golf,0.274085648,68857,35,7.87,Electricity,Winter tires,1,0,1,Normal,22.5,0,0,43.0,9.8,Restreichweite 64km = Total 99km,1,1
+Volkswagen,Golf,e-Golf,0.232418981,68822,42,8.52,Electricity,Winter tires,1,0,1,Normal,20.3,0,0,50.0,7.6,Restreichweite 67km = Total 109km,1,1
+Volkswagen,Golf,e-Golf,0.149085648,68780,32,6.43,Electricity,Winter tires,1,0,1,Normal,20.1,0,0,43.0,7.4,Restreichweite 86km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,28.12.2020,68748,13,2.67,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,37.0,7.9,,1,1
+Volkswagen,Golf,e-Golf,25.12.2020,68735,64,10.81,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,44.0,4.2,Restreichweite 58km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.990046296,68671,60,8.04,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,40.0,0.7,10°C warm im Dezember,1,1
+Volkswagen,Golf,e-Golf,0.906712963,68611,96,14.4,Electricity,Winter tires,1,1,1,Normal,15.0,0,0,56.0,2.3,Restreichweite 40km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,0.865046296,68515,38,6.99,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,39.0,5.7,Restreichweite 89km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,0.44837963,68477,100,15.5,Electricity,Winter tires,1,1,1,Normal,15.5,0,0,50.0,2.8,Restreichweite 22km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.406712963,68377,35,7.31,Electricity,Winter tires,1,0,1,Normal,20.9,0,0,44.0,8.2,Restreichweite 70km = Total 105km,1,1
+Volkswagen,Golf,e-Golf,0.32337963,68342,61,10.79,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,43.0,5.0,Restreichweite 56km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,0.281712963,68281,81,13.93,Electricity,Winter tires,1,0,1,Normal,17.2,0,0,47.0,4.5,Restreichweite 35km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,0.156712963,68200,96,14.49,Electricity,Winter tires,1,1,1,Normal,15.1,0,0,56.0,2.4,Restreichweite 23km = Total 119km,1,1
+Volkswagen,Golf,e-Golf,0.115046296,68104,68,12.1,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,46.0,5.1,Restreichweite 48km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,0.07337963,68036,25,5.3,Electricity,Winter tires,1,0,1,Normal,21.2,0,0,39.0,8.5,Restreichweite 101km = Total 126km,1,1
+Volkswagen,Golf,e-Golf,30.11.2020,68011,65,13.19,Electricity,Winter tires,1,0,1,Normal,20.3,0,0,44.0,7.6,Restreichweite 35km = Total 100km,1,1
+Volkswagen,Golf,e-Golf,28.11.2020,67946,65,11.83,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,40.0,5.5,Restreichweite 46km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,26.11.2020,67881,92,14.35,Electricity,Winter tires,1,1,1,Normal,15.6,0,0,57.0,2.9,Restreichweite 28km = Total 120km,1,1
+Volkswagen,Golf,e-Golf,25.11.2020,67789,68,12.98,Electricity,Winter tires,1,0,1,Normal,19.1,0,0,42.0,6.4,Restreichweite 41km = Total 109km,1,1
+Volkswagen,Golf,e-Golf,24.11.2020,67721,57,9.4,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,42.0,3.8,Restreichweite 73km = Total 130km,1,1
+Volkswagen,Golf,e-Golf,0.906018519,67664,38,6.49,Electricity,Winter tires,1,0,1,Normal,17.1,0,0,47.0,4.4,Restreichweite 102km = Total 140km,1,1
+Volkswagen,Golf,e-Golf,0.822685185,67626,101,15.65,Electricity,Winter tires,1,1,1,Normal,15.5,0,0,49.0,2.8,Restreichweite 29km = Total 130km,1,1
+Volkswagen,Golf,e-Golf,0.781018519,67525,83,12.11,Electricity,Winter tires,1,1,1,Normal,14.6,0,0,47.0,1.9,Restreichweite 62km = Total 145km,1,1
+Volkswagen,Golf,e-Golf,0.739351852,67442,45,6.84,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,48.0,2.5,,1,1
+Volkswagen,Golf,e-Golf,0.697685185,67397,67,10.98,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,39.0,3.7,Restreichweite 63km = Total 130km,1,1
+Volkswagen,Golf,e-Golf,0.531018519,67330,91,11.37,Electricity,Winter tires,1,1,1,Normal,12.5,0,0,52.0,-0.2,Restreichweite 64km = Total 155km,1,1
+Volkswagen,Golf,e-Golf,0.489351852,67239,47,8.74,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,45.0,5.9,Restreichweite 73km = Total 120km,1,1
+Volkswagen,Golf,e-Golf,0.406018519,67192,51,7.24,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,41.0,1.5,Restreichweite 98km = Total 149km,1,1
+Volkswagen,Golf,e-Golf,0.364351852,67141,73,11.16,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,44.0,2.6,Restreichweite 59km = Total 132km,1,1
+Volkswagen,Golf,e-Golf,0.239351852,67068,91,14.65,Electricity,Winter tires,1,1,1,Normal,16.1,0,0,59.0,3.4,Restreichweite 34km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,0.197685185,66977,55,10.01,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,46.0,5.5,Restreichweite 63km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.114351852,66922,115,12.99,Electricity,Winter tires,1,0,1,Normal,11.3,0,0,45.0,-1.4,Restreichweite 54km = Total 169km,1,1
+Volkswagen,Golf,e-Golf,30.10.2020,66807,102,14.28,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,41.0,1.3,Restreichweite 34km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,28.10.2020,66705,45,5.26,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,Restreichweite 131km = Total 176km,1,1
+Volkswagen,Golf,e-Golf,27.10.2020,66660,93,12.92,Electricity,Winter tires,1,0,1,Normal,13.9,0,0,45.0,1.2,Restreichweite 55km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,26.10.2020,66567,32,5.56,Electricity,Winter tires,1,0,1,Normal,17.4,0,0,46.0,4.7,Restreichweite 89km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,25.10.2020,66535,87,11.13,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,43.0,0.1,Restreichweite 70km = Total 157km,1,1
+Volkswagen,Golf,e-Golf,0.946990741,66448,68,11.08,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,45.0,3.6,Restreichweite 60km = Total 128km,1,1
+Volkswagen,Golf,e-Golf,0.821990741,66380,72,11.95,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,47.0,3.9,Restreichweite 52km = Total 124km,1,1
+Volkswagen,Golf,e-Golf,0.696990741,66308,59,9.68,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,35.0,3.7,Restreichweite 82km = Total 141km,1,1
+Volkswagen,Golf,e-Golf,0.613657407,66249,78,13.1,Electricity,Summer tires,1,0,1,Normal,16.8,0,0,39.0,4.1,Restreichweite 48km = Total 126km,0,1
+Volkswagen,Golf,e-Golf,0.530324074,66171,50,7.8,Electricity,Summer tires,1,0,1,Normal,15.6,0,0,43.0,2.9,Restreichweite 84km = Total 134km,0,1
+Volkswagen,Golf,e-Golf,0.363657407,66121,101,12.63,Electricity,Summer tires,1,1,1,Normal,12.5,0,0,38.0,-0.2,Restreichweite 47km = Total 148km,0,1
+Volkswagen,Golf,e-Golf,0.321990741,66020,17,2.38,Electricity,Summer tires,1,0,1,Normal,14.0,0,0,39.0,1.3,Restreichweite 149km = Total 166km,0,1
+Volkswagen,Golf,e-Golf,0.238657407,66003,108,13.39,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,44.0,-0.3,Restreichweite 44km = Total 152km,0,1
+Volkswagen,Golf,e-Golf,30.09.2020,65895,79,11.62,Electricity,Summer tires,1,0,1,Normal,14.9,0,0,41.0,2.2,Restreichweite 60km = Total 139km,0,1
+Volkswagen,Golf,e-Golf,25.09.2020,65816,116,13.8,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,41.0,-0.8,,0,1
+Volkswagen,Golf,e-Golf,0.90462963,65700,124,13.27,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,39.0,-2.0,Restreichweite 43km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.821296296,65576,155,15.97,Electricity,Summer tires,1,0,1,Normal,10.3,0,0,38.0,-2.4,,0,1
+Volkswagen,Golf,e-Golf,0.696296296,65421,26,3.07,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,33.0,-0.9,,0,1
+Volkswagen,Golf,e-Golf,0.65462963,65394,111,12.77,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,41.0,-1.2,Restreichweite 56km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.446296296,65284,96,10.56,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,44.0,-1.7,Restreichweite 88km = Total 184km,0,1
+Volkswagen,Golf,e-Golf,0.27962963,65188,154,17.86,Electricity,Summer tires,1,1,1,Normal,11.6,0,0,59.0,-1.1,Restreichweite 9km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.196296296,64913,23,2.43,Electricity,Summer tires,1,0,1,Normal,10.6,0,0,45.0,-2.1,Restreichweite 164km = Total 187km,0,1
+Volkswagen,Golf,e-Golf,0.112962963,64890,106,11.44,Electricity,Summer tires,1,0,1,Normal,10.8,1,0,39.0,-1.9,Restreichweite 77km = Total 183km,0,1
+Volkswagen,Golf,e-Golf,0.071296296,64784,103,12.05,Electricity,Summer tires,1,0,1,Normal,11.7,1,0,43.0,-1.0,Restreichweite 66km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,27.08.2020,64681,102,11.52,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,41.0,-1.4,Restreichweite 74km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.987268519,64578,43,4.73,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,39.0,-1.7,,0,1
+Volkswagen,Golf,e-Golf,0.903935185,64536,101,11.11,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,44.0,-1.7,Restreichweite 80km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,0.820601852,64435,102,10.3,Electricity,Summer tires,1,1,1,Normal,10.1,1,0,54.0,-2.6,Restreichweite 88km = Total 190km,0,1
+Volkswagen,Golf,e-Golf,0.778935185,64333,61,7.74,Electricity,Summer tires,1,1,1,Normal,12.7,1,0,41.0,0.0,Restreichweite 103km = Total 164km,0,1
+Volkswagen,Golf,e-Golf,0.737268519,64272,101,11.31,Electricity,Summer tires,1,0,1,Normal,11.2,1,0,43.0,-1.5,Restreichweite 77km = Total 178km,0,1
+Volkswagen,Golf,e-Golf,0.528935185,64171,99,12.07,Electricity,Summer tires,1,0,1,Normal,12.2,1,0,43.0,-0.5,Restreichweite 68km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.320601852,64072,109,11.88,Electricity,Summer tires,1,0,1,Moderate,10.9,1,0,43.0,-1.8,Restreichweite 69km = Total 178km,0,0
+Volkswagen,Golf,e-Golf,0.195601852,63963,48,5.8,Electricity,Summer tires,1,0,1,Moderate,12.1,1,0,44.0,-0.6,Restreichweite 131km = Total 179km,0,0
+Volkswagen,Golf,e-Golf,0.112268519,63915,144,16.7,Electricity,Summer tires,1,1,1,Moderate,11.6,1,0,52.0,-1.1,Restreichweite 22km = Total 166km,0,0
+Volkswagen,Golf,e-Golf,0.070601852,63771,125,13.87,Electricity,Summer tires,1,0,1,Moderate,11.1,1,0,43.0,-1.6,Restreichweite 41km = Total 166km,0,0
+Volkswagen,Golf,e-Golf,26.07.2020,63646,114,11.05,Electricity,Summer tires,1,1,1,Moderate,9.7,0,0,39.0,-3.0,Restreichweite 81km = Total 195km,0,0
+Volkswagen,Golf,e-Golf,0.986574074,63532,63,7.68,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,45.0,-0.5,Gratisladung Uniklinik Balgrist Zürich,0,1
+Volkswagen,Golf,e-Golf,0.944907407,63469,94,10.71,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,37.0,-1.3,Restreichweite 81km = Total 175km,0,1
+Volkswagen,Golf,e-Golf,0.653240741,63375,69,6.55,Electricity,Summer tires,1,0,1,Normal,9.5,0,0,45.0,-3.2,,0,1
+Volkswagen,Golf,e-Golf,0.569907407,63306,64,7.29,Electricity,Summer tires,1,1,1,Normal,11.4,0,0,39.0,-1.3,Kostenlos Ikea Spreitenbach,0,1
+Volkswagen,Golf,e-Golf,0.528240741,63242,112,11.98,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,45.0,-2.0,Restreichweite 72km = Total 184km,0,1
+Volkswagen,Golf,e-Golf,0.111574074,63130,83,10.37,Electricity,Summer tires,1,0,1,Normal,12.5,0,0,45.0,-0.2,Restreichweite 86km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,27.06.2020,62905,40,3.96,Electricity,Summer tires,1,0,1,Moderate,9.9,0,0,44.0,-2.8,,0,0
+Volkswagen,Golf,e-Golf,26.06.2020,62865,76,8.58,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,39.0,-1.4,Bei IKEA kostenlos geladen,0,1
+Volkswagen,Golf,e-Golf,25.06.2020,62789,49,6.03,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,40.0,-0.4,Restreichweite 129km = Total 178km,0,1
+Volkswagen,Golf,e-Golf,0.98587963,62740,99,10.99,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,39.0,-1.6,Restreichweite 83km = Total 182km,0,1
+Volkswagen,Golf,e-Golf,0.777546296,62641,134,15.68,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,46.0,-1.0,Restreichweite 22km = Total 156km,0,1
+Volkswagen,Golf,e-Golf,0.61087963,62507,148,17.02,Electricity,Summer tires,1,1,1,Normal,11.5,0,0,48.0,-1.2,Restreichweite 22km = Total 170km,0,1
+Volkswagen,Golf,e-Golf,0.569212963,62359,26,2.7,Electricity,Summer tires,1,0,1,Normal,10.4,0,0,37.0,-2.3,,0,1
+Volkswagen,Golf,e-Golf,0.569212963,62333,105,11.03,Electricity,Summer tires,1,0,1,Normal,10.5,0,0,43.0,-2.2,,0,1
+Volkswagen,Golf,e-Golf,0.48587963,62228,40,4.72,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,45.0,-0.9,Restreichweite 137km = Total 177km,0,1
+Volkswagen,Golf,e-Golf,0.402546296,62188,100,11.5,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,44.0,-1.2,Restreichweite 72km = Total 172km,0,1
+Volkswagen,Golf,e-Golf,0.194212963,62088,135,14.31,Electricity,Summer tires,1,1,1,Normal,10.6,0,0,37.0,-2.1,Restreichweite 33km = Total 168km,0,1
+Volkswagen,Golf,e-Golf,0.11087963,61953,95,10.26,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,46.0,-1.9,Restreichweite 88km = Total 183km,0,1
+Volkswagen,Golf,e-Golf,27.05.2020,61858,98,10.98,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,41.0,-1.5,Restreichweite 82km = Total 180km,0,1
+Volkswagen,Golf,e-Golf,24.05.2020,61760,123,13.9,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,42.0,-1.4,Restreichweite 40km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.776851852,61637,112,12.66,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,44.0,-1.4,Restreichweite 64km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.610185185,61525,64,9.79,Electricity,Summer tires,1,0,1,Normal,15.3,0,0,44.0,2.6,Restreichweite 79km = Total 143km,0,1
+Volkswagen,Golf,e-Golf,0.443518519,61461,114,12.65,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,44.0,-1.6,Restreichweite 55km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,0.235185185,61347,75,11.33,Electricity,Summer tires,1,0,1,Normal,15.1,0,0,43.0,2.4,Restreichweite 57km = Total 132km,0,1
+Volkswagen,Golf,e-Golf,29.04.2020,61272,111,12.77,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,43.0,-1.2,Restreichweite 50km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.984490741,61161,95,11.97,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,41.0,-0.1,Restreichweite 64km = Total 159km,0,1
+Volkswagen,Golf,e-Golf,0.484490741,61066,146,16.21,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,44.0,-1.6,Restreichweite 11km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,0.359490741,60920,102,14.08,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,43.0,1.1,Restreichweite 33km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.067824074,60818,77,11.16,Electricity,Winter tires,1,0,1,Normal,14.5,0,0,45.0,1.8,Restreichweite 70km = Total 147km,1,1
+Volkswagen,Golf,e-Golf,29.03.2020,60741,100,14.0,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,46.0,1.3,Restreichweite 44km = Total 144km,1,1
+Volkswagen,Golf,e-Golf,26.03.2020,60641,95,14.25,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,45.0,2.3,Restreichweite 40km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.900462963,60546,112,13.78,Electricity,Winter tires,1,0,1,Normal,12.3,0,0,45.0,-0.4,Restreichweite 37km = Total 149km,1,1
+Volkswagen,Golf,e-Golf,0.69212963,60434,68,9.11,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,39.0,0.7,Restreichweite 86km = Total 154km,1,1
+Volkswagen,Golf,e-Golf,0.525462963,60366,68,8.77,Electricity,Winter tires,1,0,1,Normal,12.9,0,0,39.0,0.2,Restreichweite 89km = Total 157km,1,1
+Volkswagen,Golf,e-Golf,0.483796296,60298,65,9.69,Electricity,Winter tires,1,0,1,Normal,14.9,0,0,42.0,2.2,Restreichweite 72km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.400462963,60233,84,11.42,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,46.0,0.9,Restreichweite 64km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,0.358796296,60149,81,10.29,Electricity,Winter tires,1,0,1,Normal,12.7,0,0,47.0,0.0,Restreichweite 78km = Total 159km,1,1
+Volkswagen,Golf,e-Golf,0.150462963,60014,51,9.49,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,49.0,5.9,Restreichweite 65km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,0.06712963,59963,73,11.17,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,42.0,2.6,Restreichweite 62km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,27.02.2020,59890,67,12.46,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,43.0,5.9,Restreichweite 50km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,26.02.2020,59823,37,8.07,Electricity,Winter tires,1,0,1,Normal,21.8,0,0,38.0,9.1,Restreichweite 74km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,25.02.2020,59786,65,10.27,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,45.0,3.1,Restreichweite 67km = Total 132km,1,1
+Volkswagen,Golf,e-Golf,0.941435185,59721,132,15.05,Electricity,Winter tires,1,0,1,Normal,11.4,0,0,47.0,-1.3,Akku war nicht voll,1,1
+Volkswagen,Golf,e-Golf,0.941435185,59589,45,6.62,Electricity,Winter tires,1,0,1,Normal,14.7,0,0,43.0,2.0,Restreichweite 109km = Total 154km,1,1
+Volkswagen,Golf,e-Golf,0.858101852,59544,80,10.24,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,42.0,0.1,Restreichweite 81km = Total 161km Heute 11°C gewesen,1,1
+Volkswagen,Golf,e-Golf,0.816435185,59464,38,7.79,Electricity,Winter tires,1,0,1,Normal,20.5,0,0,40.0,7.8,Restreichweite 80km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.774768519,59426,66,10.89,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,44.0,3.8,Restreichweite 61km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,0.649768519,59360,93,14.32,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,41.0,2.7,Restreichweite 28km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.566435185,59267,72,11.16,Electricity,Winter tires,1,0,1,Normal,15.5,0,0,42.0,2.8,Restreichweite 64km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,0.524768519,59195,69,12.28,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,45.0,5.1,Restreichweite 50km = Total 119km,1,1
+Volkswagen,Golf,e-Golf,0.483101852,59126,46,8.33,Electricity,Winter tires,1,0,1,Normal,18.1,0,0,43.0,5.4,Restreichweite 73km = Total 119km,1,1
+Volkswagen,Golf,e-Golf,0.399768519,59080,73,12.19,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,50.0,4.0,Restreichweite 48km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.316435185,59007,17,3.52,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,42.0,8.0,Restreichweite 121km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,0.233101852,58990,68,10.27,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,44.0,2.4,Restreichweite 70km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,30.01.2020,58922,58,11.19,Electricity,Winter tires,1,0,1,Normal,19.3,1,0,44.0,6.6,Restreichweite 60km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,28.01.2020,58864,43,8.21,Electricity,Winter tires,1,0,1,Normal,19.1,1,0,47.0,6.4,Restreichweite 75km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,26.01.2020,58821,69,12.28,Electricity,Winter tires,1,0,1,Normal,17.8,1,1,45.0,5.1,Restreichweite 38km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,24.01.2020,58752,70,14.63,Electricity,Winter tires,1,0,1,Normal,20.9,1,1,45.0,8.2,Restreichweite 22km = Total 92km,1,1
+Volkswagen,Golf,e-Golf,0.940740741,58682,41,9.39,Electricity,Winter tires,1,0,1,Normal,22.9,1,0,47.0,10.2,,1,1
+Volkswagen,Golf,e-Golf,0.857407407,58641,21,4.22,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,49.0,7.4,,1,1
+Volkswagen,Golf,e-Golf,0.815740741,58620,74,13.32,Electricity,Winter tires,1,0,1,Normal,18.0,1,1,46.0,5.3,,1,1
+Volkswagen,Golf,e-Golf,0.690740741,58546,57,10.55,Electricity,Winter tires,1,0,1,Normal,18.5,1,0,37.0,5.8,Restreichweite 58km = Total 115km,1,1
+Volkswagen,Golf,e-Golf,0.649074074,58489,54,10.75,Electricity,Winter tires,1,0,1,Normal,19.9,1,0,40.0,7.2,Restreichweite 57km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.565740741,58435,47,9.07,Electricity,Winter tires,1,0,1,Normal,19.3,1,1,43.0,6.6,Restreichweite 63km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,0.524074074,58388,52,8.63,Electricity,Winter tires,1,0,1,Normal,16.6,1,0,45.0,3.9,Restreichweite 78km = Total 130km,1,1
+Volkswagen,Golf,e-Golf,0.399074074,58336,51,8.16,Electricity,Winter tires,1,0,1,Normal,16.0,1,0,42.0,3.3,Restreichweite 92km = Total 143km,1,1
+Volkswagen,Golf,e-Golf,0.357407407,58285,39,8.0,Electricity,Winter tires,1,0,1,Normal,20.5,1,0,43.0,7.8,Restreichweite 72km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.315740741,58246,53,11.08,Electricity,Winter tires,1,0,1,Normal,20.9,1,0,42.0,8.2,Restreichweite 51km = Total 104km,1,1
+Volkswagen,Golf,e-Golf,0.232407407,58193,56,9.41,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,39.0,4.1,Restreichweite 70km = Total 126km,1,1
+Volkswagen,Golf,e-Golf,0.065740741,58137,57,11.0,Electricity,Winter tires,1,0,1,Normal,19.3,1,1,42.0,6.6,Restreichweite 53km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,30.12.2019,58080,29,6.26,Electricity,Winter tires,1,0,1,Normal,21.6,1,0,41.0,8.9,Restreichweite 88km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,29.12.2019,58051,41,7.71,Electricity,Winter tires,1,0,1,Normal,18.8,1,0,42.0,6.1,Restreichweite 75km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,28.12.2019,58010,19,3.14,Electricity,Winter tires,1,0,1,Normal,16.5,1,0,38.0,3.8,Restreichweite 139km = Total 158km,1,1
+Volkswagen,Golf,e-Golf,27.12.2019,57834,26,3.72,Electricity,Winter tires,1,0,1,Normal,14.3,0,0,52.0,1.6,Restreichweite 125km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,26.12.2019,57808,37,6.62,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,48.0,5.2,Restreichweite 97km = Total 134km,1,1
+Volkswagen,Golf,e-Golf,25.12.2019,57771,47,8.23,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,43.0,4.8,Restreichweite 78km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,0.990034722,57724,46,8.97,Electricity,Winter tires,1,0,1,Normal,19.5,0,0,41.0,6.8,Restreichweite 68km = Total 114km,1,1
+Volkswagen,Golf,e-Golf,0.948368056,57678,86,14.19,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,46.0,3.8,Restreichweite 44km = Total 130km,1,1
+Volkswagen,Golf,e-Golf,0.906701389,57592,49,8.13,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,42.0,3.9,Restreichweite 83km = Total 132km,1,1
+Volkswagen,Golf,e-Golf,0.865034722,57479,91,14.19,Electricity,Winter tires,1,1,1,Normal,15.6,0,0,42.0,2.9,CCS Uster kostenlos,1,1
+Volkswagen,Golf,e-Golf,0.865034722,57388,96,16.03,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,43.0,4.0,"CCS Thermalbad Zurzach Parkgebühr Fr.1.00, Strom kostenlos",1,1
+Volkswagen,Golf,e-Golf,0.740034722,57292,25,5.1,Electricity,Winter tires,1,0,1,Normal,20.4,0,0,47.0,7.7,Restreichweite 100km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,0.698368056,57267,61,10.0,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,45.0,3.7,Restreichweite 63km = Total 124km,1,1
+Volkswagen,Golf,e-Golf,0.573368056,57206,72,13.61,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,45.0,6.2,,1,1
+Volkswagen,Golf,e-Golf,0.531701389,57134,26,4.32,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,40.0,3.9,Restreichweite 118km = Total 144km,1,1
+Volkswagen,Golf,e-Golf,0.490034722,57108,65,11.64,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,46.0,5.2,Restreichweite 59km = Total 124km,1,1
+Volkswagen,Golf,e-Golf,0.448368056,57043,36,6.59,Electricity,Winter tires,1,0,1,Normal,18.3,0,0,37.0,5.6,Restreichweite 97km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,0.406701389,57007,68,10.4,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,49.0,2.6,Restreichweite 63km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.406701389,56939,25,3.4,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,44.0,0.9,Restreichweite 131km = Total 156km,1,1
+Volkswagen,Golf,e-Golf,0.323368056,56914,84,11.84,Electricity,Winter tires,1,0,1,Normal,14.1,0,0,46.0,1.4,Restreichweite 63km = Total 147km,1,1
+Volkswagen,Golf,e-Golf,0.323368056,56830,60,10.02,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,42.0,4.0,Restreichweite 68km = Total 128km,1,1
+Volkswagen,Golf,e-Golf,0.240034722,56595,62,11.1,Electricity,Winter tires,1,1,1,Normal,17.9,0,0,57.0,5.2,CCS Gunzgen Nord,1,1
+Volkswagen,Golf,e-Golf,0.198368056,56533,44,9.37,Electricity,Winter tires,1,0,1,Normal,21.3,0,0,43.0,8.6,Restreichweite 64km = Total 108km,1,1
+Volkswagen,Golf,e-Golf,0.156701389,56489,45,9.32,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,45.0,8.0,Restreichweite 64km = Total 109km,1,1
+Volkswagen,Golf,e-Golf,0.115034722,56444,51,10.05,Electricity,Winter tires,1,0,1,Normal,19.7,0,0,43.0,7.0,Restreichweite 57km = Total 108km,1,1
+Volkswagen,Golf,e-Golf,30.11.2019,56393,70,13.72,Electricity,Winter tires,1,0,1,Normal,19.6,0,0,42.0,6.9,Restreichweite 37km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,27.11.2019,56323,50,6.9,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,40.0,1.1,Restreichweite 101km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,25.11.2019,56273,79,12.17,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,44.0,2.7,Restreichweite 54km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,0.989340278,56194,78,12.17,Electricity,Winter tires,1,0,1,Normal,15.6,0,0,48.0,2.9,Restreichweite 54km = Total 132km,1,1
+Volkswagen,Golf,e-Golf,0.947673611,56116,40,7.52,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,38.0,6.1,Restreichweite 77km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,0.906006944,56076,81,11.26,Electricity,Winter tires,1,0,1,Normal,13.9,0,0,43.0,1.2,Restreichweite 63km = Total 144km,1,1
+Volkswagen,Golf,e-Golf,0.864340278,55995,33,6.53,Electricity,Winter tires,1,0,1,Normal,19.8,0,0,35.0,7.1,Restreichweite 75km = Total 108km,1,1
+Volkswagen,Golf,e-Golf,0.822673611,55962,79,14.77,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,43.0,6.0,Restreichweite 24km = Total 103km,1,1
+Volkswagen,Golf,e-Golf,0.739340278,55883,48,9.36,Electricity,Winter tires,1,0,1,Normal,19.5,0,0,43.0,6.8,Restreichweite 65km = Total 113km,1,1
+Volkswagen,Golf,e-Golf,0.656006944,55835,21,3.57,Electricity,Winter tires,1,0,1,Normal,17.0,0,0,50.0,4.3,,1,1
+Volkswagen,Golf,e-Golf,0.656006944,55814,55,9.13,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,42.0,3.9,,1,1
+Volkswagen,Golf,e-Golf,0.614340278,55759,65,12.03,Electricity,Winter tires,1,0,1,Normal,18.5,0,0,39.0,5.8,Restreichweite 42km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,0.531006944,55694,65,10.99,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,47.0,4.2,Restreichweite 58km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.447673611,55629,47,7.19,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,41.0,2.6,Restreichweite 96km = Total 143km,1,1
+Volkswagen,Golf,e-Golf,0.406006944,55582,113,15.93,Electricity,Winter tires,1,1,1,Normal,14.1,0,0,54.0,1.4,Restreichweite 22km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.364340278,55469,92,15.46,Electricity,Winter tires,1,0,1,Normal,16.8,0,0,41.0,4.1,Restreichweite 18km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,0.281006944,55377,83,13.28,Electricity,Winter tires,1,0,1,Normal,16.0,0,0,38.0,3.3,Restreichweite 40km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.197673611,55294,29,4.79,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,42.0,3.8,Restreichweite 112km = Total 141km,1,1
+Volkswagen,Golf,e-Golf,0.114340278,55265,115,14.95,Electricity,Winter tires,1,0,1,Normal,13.0,0,0,42.0,0.3,Restreichweite 35km = Total 150km,1,1
+Volkswagen,Golf,e-Golf,31.10.2019,55150,67,11.72,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,41.0,4.8,Restreichweite 54km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,29.10.2019,55083,74,11.25,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,40.0,2.5,Restreichweite 66km = Total 140km,1,1
+Volkswagen,Golf,e-Golf,27.10.2019,55009,92,11.32,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,50.0,-0.4,Restreichweite 73km = Total 165km,0,1
+Volkswagen,Golf,e-Golf,25.10.2019,54917,26,3.9,Electricity,Summer tires,1,0,1,Normal,15.0,0,0,45.0,2.3,,0,1
+Volkswagen,Golf,e-Golf,25.10.2019,54891,104,13.52,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,42.0,0.3,,0,1
+Volkswagen,Golf,e-Golf,0.946979167,54787,58,7.66,Electricity,Summer tires,1,0,1,Normal,13.2,0,0,38.0,0.5,Restreichweite 99km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,0.9053125,54729,108,15.12,Electricity,Summer tires,1,1,1,Normal,14.0,0,0,55.0,1.3,Restreichweite 24km = Total 132km,0,1
+Volkswagen,Golf,e-Golf,0.9053125,54621,48,5.86,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,41.0,-0.5,Restreichweite 128km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.863645833,54573,43,6.67,Electricity,Summer tires,1,0,1,Normal,15.5,0,0,46.0,2.8,Restreichweite 96km = Total 139km,0,1
+Volkswagen,Golf,e-Golf,0.821979167,54530,113,14.69,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,40.0,0.3,Restreichweite 31km = Total 144km,0,1
+Volkswagen,Golf,e-Golf,0.6553125,54417,75,9.53,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,45.0,0.0,,0,1
+Volkswagen,Golf,e-Golf,0.571979167,54342,115,14.14,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,50.0,-0.4,Restreichweite 48km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.488645833,54227,43,5.89,Electricity,Summer tires,1,0,1,Normal,13.7,0,0,40.0,1.0,Restreichweite 118km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.446979167,54184,114,15.5,Electricity,Summer tires,1,1,1,Moderate,13.6,0,0,51.0,0.9,Restreichweite 31km = Total 145km,0,0
+Volkswagen,Golf,e-Golf,0.4053125,54070,52,8.06,Electricity,Summer tires,1,0,1,Moderate,15.5,0,0,43.0,2.8,Restreichweite 93km = Total 145km,0,0
+Volkswagen,Golf,e-Golf,0.363645833,54018,87,11.22,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,40.0,0.2,Restreichweite 74km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.238645833,53931,92,13.25,Electricity,Summer tires,1,1,1,Normal,14.4,0,0,58.0,1.7,Restreichweite 41km = Total 132km,0,1
+Volkswagen,Golf,e-Golf,0.196979167,53839,89,10.77,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,42.0,-0.6,Restreichweite 76km = Total 165km,0,1
+Volkswagen,Golf,e-Golf,0.113645833,53657,60,6.78,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,37.0,-1.4,Restreichweite 119km = Total 179km,0,1
+Volkswagen,Golf,e-Golf,0.071979167,53597,102,12.03,Electricity,Summer tires,1,1,1,Normal,11.8,0,0,45.0,-0.9,,0,1
+Volkswagen,Golf,e-Golf,0.071979167,53495,93,12.0,Electricity,Summer tires,1,1,1,Normal,12.9,0,0,57.0,0.2,CCS Restreichweite 58km = Total 151km,0,1
+Volkswagen,Golf,e-Golf,29.09.2019,53402,132,14.65,Electricity,Summer tires,1,1,1,Normal,11.1,0,0,58.0,-1.6,,0,1
+Volkswagen,Golf,e-Golf,28.09.2019,53270,92,11.32,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,56.0,-0.4,CCS,0,1
+Volkswagen,Golf,e-Golf,27.09.2019,53178,90,11.61,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,36.0,0.2,,0,1
+Volkswagen,Golf,e-Golf,25.09.2019,53088,113,14.24,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,43.0,-0.1,Restreichweite 42km = Total 155km,0,1
+Volkswagen,Golf,e-Golf,24.09.2019,52975,123,14.63,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,48.0,-0.8,,0,1
+Volkswagen,Golf,e-Golf,0.904618056,52852,81,8.52,Electricity,Summer tires,1,0,1,Normal,10.4,0,0,47.0,-2.3,,0,1
+Volkswagen,Golf,e-Golf,0.821284722,52611,46,5.24,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,41.0,-1.3,Restreichweite 131km = Total 177km,0,1
+Volkswagen,Golf,e-Golf,0.446284722,52451,111,12.65,Electricity,Summer tires,1,0,1,Normal,11.4,1,0,42.0,-1.3,Restreichweite 59km = Total 170km,0,1
+Volkswagen,Golf,e-Golf,0.362951389,52340,23,3.1,Electricity,Summer tires,1,0,1,Normal,13.5,0,0,45.0,0.8,,0,1
+Volkswagen,Golf,e-Golf,0.362951389,52317,94,10.52,Electricity,Summer tires,1,0,1,Moderate,11.2,0,0,49.0,-1.5,Restreichweite 76km = Total 170km,0,0
+Volkswagen,Golf,e-Golf,0.279618056,52223,104,12.48,Electricity,Summer tires,1,0,1,Moderate,12.0,1,0,43.0,-0.7,Restreichweite 57km = Total 161km,0,0
+Volkswagen,Golf,e-Golf,30.08.2019,51757,69,7.86,Electricity,Summer tires,1,0,1,Moderate,11.4,0,0,43.0,-1.3,Restreichweite 112km = Total 181km,0,0
+Volkswagen,Golf,e-Golf,29.08.2019,51688,104,11.75,Electricity,Summer tires,1,0,1,Moderate,11.3,0,0,45.0,-1.4,Restreichweite 77km = Total 181km,0,0
+Volkswagen,Golf,e-Golf,25.08.2019,51584,54,5.72,Electricity,Summer tires,1,0,1,Moderate,10.6,0,0,46.0,-2.1,,0,0
+Volkswagen,Golf,e-Golf,0.987256944,51530,85,11.47,Electricity,Summer tires,1,1,1,Normal,13.5,0,0,52.0,0.8,,0,1
+Volkswagen,Golf,e-Golf,0.987256944,51445,82,10.08,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,37.0,-0.4,CCS Hunzenschwil,0,1
+Volkswagen,Golf,e-Golf,0.945590278,51363,50,6.35,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,45.0,0.0,Restreichweite 111km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.862256944,51313,102,11.52,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,45.0,-1.4,Restreichweite 75km = Total 177km,0,1
+Volkswagen,Golf,e-Golf,0.778923611,51211,108,13.17,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,57.0,-0.5,Restreichweite 56km = Total 164km,0,1
+Volkswagen,Golf,e-Golf,0.695590278,51103,79,9.32,Electricity,Summer tires,1,0,1,Moderate,11.8,0,0,41.0,-0.9,Restreichweite 97km = Total 176km,0,0
+Volkswagen,Golf,e-Golf,0.570590278,51024,94,10.43,Electricity,Summer tires,1,0,1,Moderate,11.1,0,0,43.0,-1.6,Restreichweite 89km = Total 182km,0,0
+Volkswagen,Golf,e-Golf,0.487256944,50930,88,10.29,Electricity,Summer tires,1,0,1,Moderate,11.7,0,0,39.0,-1.0,Restreichweite 83km = Total 171km,0,0
+Volkswagen,Golf,e-Golf,0.362256944,50842,37,4.77,Electricity,Summer tires,1,0,1,Moderate,12.9,0,0,43.0,0.2,Nur Kurzstrecken,0,0
+Volkswagen,Golf,e-Golf,0.112256944,50805,107,12.3,Electricity,Summer tires,1,0,1,Moderate,11.5,0,0,40.0,-1.2,,0,0
+Volkswagen,Golf,e-Golf,0.653229167,50698,77,8.47,Electricity,Summer tires,1,0,1,Moderate,11.0,0,0,47.0,-1.7,,0,0
+Volkswagen,Golf,e-Golf,0.569895833,50621,123,13.03,Electricity,Summer tires,1,0,1,Moderate,10.6,0,0,42.0,-2.1,Restreichweite 61km = Total 184km,0,0
+Volkswagen,Golf,e-Golf,0.444895833,50498,79,9.24,Electricity,Summer tires,1,0,1,Moderate,11.7,0,0,37.0,-1.0,,0,0
+Volkswagen,Golf,e-Golf,0.319895833,50419,24,2.44,Electricity,Summer tires,1,0,1,Moderate,10.2,0,0,44.0,-2.5,,0,0
+Volkswagen,Golf,e-Golf,0.319895833,50395,152,17.32,Electricity,Summer tires,1,1,1,Moderate,11.4,1,0,58.0,-1.3,Restreichweite 17km = Total 169km,0,0
+Volkswagen,Golf,e-Golf,0.278229167,50243,125,12.87,Electricity,Summer tires,1,0,1,Moderate,10.3,1,0,41.0,-2.4,Restreichweite 56km = Total 181km,0,0
+Volkswagen,Golf,e-Golf,0.153229167,50118,41,4.87,Electricity,Summer tires,1,0,1,Moderate,11.9,1,0,41.0,-0.8,Restreichweite 143km = Total 184km,0,0
+Volkswagen,Golf,e-Golf,0.1115625,50077,91,10.55,Electricity,Summer tires,1,0,1,Moderate,11.6,1,0,41.0,-1.1,Restreichweite 87km = Total 178km,0,0
+Volkswagen,Golf,e-Golf,29.06.2019,49862,16,1.93,Electricity,Summer tires,1,0,1,Moderate,12.1,1,0,43.0,-0.6,Restreichweite 148km = Total 164km,0,0
+Volkswagen,Golf,e-Golf,29.06.2019,49846,29,3.59,Electricity,Summer tires,1,0,1,Moderate,12.4,1,0,37.0,-0.3,Restreichweite 153km = Total 182km,0,0
+Volkswagen,Golf,e-Golf,28.06.2019,49817,64,7.29,Electricity,Summer tires,1,0,1,Moderate,11.4,1,0,38.0,-1.3,Restreichweite 114km = Total 178km,0,0
+Volkswagen,Golf,e-Golf,27.06.2019,49708,57,7.52,Electricity,Summer tires,1,0,1,Moderate,13.2,1,0,39.0,0.5,Restreichweite 107km = Total 164km,0,0
+Volkswagen,Golf,e-Golf,0.985868056,49651,151,16.15,Electricity,Summer tires,1,0,1,Moderate,10.7,1,0,41.0,-2.0,Restreichweite 23km = Total 174km,0,0
+Volkswagen,Golf,e-Golf,0.860868056,49500,43,5.41,Electricity,Summer tires,1,0,1,Normal,12.6,1,0,38.0,-0.1,,0,1
+Volkswagen,Golf,e-Golf,0.777534722,49457,111,12.65,Electricity,Summer tires,1,0,1,Normal,11.4,1,0,46.0,-1.3,,0,1
+Volkswagen,Golf,e-Golf,0.694201389,49346,149,15.64,Electricity,Summer tires,1,0,1,Normal,10.5,0,0,39.0,-2.2,Restreichweite 29km = Total 178km,0,1
+Volkswagen,Golf,e-Golf,0.569201389,49197,132,15.7,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,42.0,-0.8,Restreichweite 25km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,0.402534722,49004,112,13.55,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,59.0,-0.6,CCS DMG Mori in Winterthur kostenlos,0,1
+Volkswagen,Golf,e-Golf,0.319201389,48799,96,10.94,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,49.0,-1.3,Restreichweite 83km = Total 179km,0,1
+Volkswagen,Golf,e-Golf,0.235868056,48703,49,5.68,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,39.0,-1.1,Restreichweite 132km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,0.194201389,48654,99,11.78,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,44.0,-0.8,Restreichweite 72km = Total 171km,0,1
+Volkswagen,Golf,e-Golf,0.110868056,48555,82,8.77,Electricity,Summer tires,1,0,1,Normal,10.7,1,0,43.0,-2.0,Restreichweite 99km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,31.05.2019,48473,121,15.36,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,41.0,0.0,Restreichweite 26km = Total 147km,0,1
+Volkswagen,Golf,e-Golf,27.05.2019,48352,108,11.98,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,40.0,-1.6,Restreichweite 73km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,26.05.2019,48244,78,8.58,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,37.0,-1.7,Restreichweite 96km = Total 174km,0,1
+Volkswagen,Golf,e-Golf,0.985173611,48166,158,17.22,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,42.0,-1.8,Restreichweite 11km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,0.901840278,48008,78,11.31,Electricity,Summer tires,1,0,1,Normal,14.5,0,0,45.0,1.8,Restreichweite 68km = Total 145km,0,1
+Volkswagen,Golf,e-Golf,0.776840278,47930,130,14.69,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,43.0,-1.4,Restreichweite 36km = Total 166km,0,1
+Volkswagen,Golf,e-Golf,0.693506944,47800,77,9.47,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,46.0,-0.4,Restreichweite 92km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,0.610173611,47723,75,9.53,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,42.0,0.0,Restreichweite 79km = Total 154km,0,1
+Volkswagen,Golf,e-Golf,0.443506944,47648,57,8.26,Electricity,Summer tires,1,0,1,Normal,14.5,0,0,40.0,1.8,Restreichweite 86km = Total 142km,0,1
+Volkswagen,Golf,e-Golf,0.360173611,47591,37,5.88,Electricity,Summer tires,1,0,1,Normal,15.9,0,0,45.0,3.2,,0,1
+Volkswagen,Golf,e-Golf,0.318506944,47554,119,14.51,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,46.0,-0.5,Restreichweite 36km = Total 155km,0,1
+Volkswagen,Golf,e-Golf,0.235173611,47435,22,3.82,Electricity,Summer tires,1,0,1,Normal,17.4,0,0,47.0,4.7,3°C. Heizung an.,0,1
+Volkswagen,Golf,e-Golf,0.193506944,47413,89,12.46,Electricity,Summer tires,1,0,1,Normal,14.0,0,0,35.0,1.3,Restreichweite 58km = Total 146km,0,1
+Volkswagen,Golf,e-Golf,0.110173611,47324,50,5.8,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,45.0,-1.1,,0,1
+Volkswagen,Golf,e-Golf,0.068506944,47274,124,16.62,Electricity,Summer tires,1,0,1,Normal,13.4,0,0,40.0,0.7,Restreichweite 15km = Total 139km CCS ABB Baden,0,1
+Volkswagen,Golf,e-Golf,27.04.2019,47059,94,11.37,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,41.0,-0.6,Restreichweite 74km = Total 168km,0,1
+Volkswagen,Golf,e-Golf,0.901145833,46810,69,7.31,Electricity,Summer tires,1,0,1,Normal,10.6,0,0,47.0,-2.1,Reatreichweite 114km = Total 183km,0,1
+Volkswagen,Golf,e-Golf,0.776145833,46616,103,12.77,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,33.0,-0.3,Restreichweite 60km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.651145833,46513,88,13.81,Electricity,Winter tires,1,0,1,Normal,15.7,0,0,48.0,3.0,Restreichweite 43km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.484479167,46425,100,11.9,Electricity,Winter tires,1,1,1,Normal,11.9,0,0,51.0,-0.8,Restreichweite 68km = Total 168km,1,1
+Volkswagen,Golf,e-Golf,0.4428125,46325,47,7.23,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,46.0,2.7,Restreichweite 100km = Total 147km,1,1
+Volkswagen,Golf,e-Golf,0.359479167,46278,64,7.16,Electricity,Winter tires,1,0,1,Normal,11.2,0,0,44.0,-1.5,Restreichweite 122km = Total 186km,1,1
+Volkswagen,Golf,e-Golf,0.3178125,46214,132,16.1,Electricity,Winter tires,1,0,1,Normal,12.2,0,0,46.0,-0.5,Restreichweite 24km = Total 156km,1,1
+Volkswagen,Golf,e-Golf,0.234479167,46082,60,8.82,Electricity,Winter tires,1,0,1,Normal,14.7,0,0,45.0,2.0,Restreichweite 69km = Total 129km,1,1
+Volkswagen,Golf,e-Golf,0.1928125,46022,90,13.86,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,44.0,2.7,Restreichweite 33km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.0678125,45932,113,14.91,Electricity,Winter tires,1,1,1,Normal,13.2,0,0,54.0,0.5,Restreichweite 33km = Total 146km,1,1
+Volkswagen,Golf,e-Golf,31.03.2019,45819,90,13.5,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,45.0,2.3,Restreichweite 38km = Total 128km,1,1
+Volkswagen,Golf,e-Golf,26.03.2019,45729,92,12.32,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,49.0,0.7,Restreichweite 58km = Total 150km,1,1
+Volkswagen,Golf,e-Golf,24.03.2019,45500,81,8.74,Electricity,Winter tires,1,0,1,Normal,10.8,0,0,41.0,-1.9,CCS Au/SG kostenlos,1,1
+Volkswagen,Golf,e-Golf,0.942118056,45283,88,11.79,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,44.0,0.7,Restreichweite 71km = Total 159km,1,1
+Volkswagen,Golf,e-Golf,0.900451389,45195,49,7.35,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,44.0,2.3,Restreichweite 97km = Total 146km,1,1
+Volkswagen,Golf,e-Golf,0.817118056,45146,54,9.88,Electricity,Winter tires,1,0,1,Normal,18.3,0,0,39.0,5.6,Restreichweite 63km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,0.692118056,45092,101,13.02,Electricity,Winter tires,1,1,1,Normal,12.9,0,0,56.0,0.2,,1,1
+Volkswagen,Golf,e-Golf,0.692118056,44991,70,9.94,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,40.0,1.5,Restreichweite 81km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,0.608784722,44921,83,14.36,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,40.0,4.6,Restreichweite 38km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.567118056,44838,25,3.45,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,42.0,1.1,Restreichweite 136km = Total 160km,1,1
+Volkswagen,Golf,e-Golf,0.525451389,44813,68,12.03,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,46.0,5.0,Restreichweite 54km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.442118056,44503,94,12.46,Electricity,Winter tires,1,1,1,Normal,13.4,0,0,46.0,0.7,Schnellladung Bursins Sud kostenlos,1,1
+Volkswagen,Golf,e-Golf,0.358784722,44173,93,13.21,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,39.0,1.5,Restreichweite 50km = Total 143km,1,1
+Volkswagen,Golf,e-Golf,0.275451389,44080,98,14.5,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,46.0,2.1,Restreichweite 38km = Total 136km ,1,1
+Volkswagen,Golf,e-Golf,0.150451389,43982,106,12.61,Electricity,Winter tires,1,0,1,Normal,11.9,0,0,58.0,-0.8,Restreichweite 61km = Total 167km,1,1
+Volkswagen,Golf,e-Golf,0.108784722,43876,90,11.52,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,50.0,0.1,Restreichweite 67km = Total 157km,1,1
+Volkswagen,Golf,e-Golf,0.067118056,43786,66,10.75,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,43.0,3.6,Restreichweite 67km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,28.02.2019,43720,85,12.41,Electricity,Winter tires,1,0,1,Normal,14.6,0,0,48.0,1.9,Restreichweite 63km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,27.02.2019,43635,57,8.04,Electricity,Winter tires,1,0,1,Normal,14.1,0,0,44.0,1.4,Restreichweite 90km = Total 147km,1,1
+Volkswagen,Golf,e-Golf,26.02.2019,43578,57,8.55,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,43.0,2.3,,1,1
+Volkswagen,Golf,e-Golf,24.02.2019,43521,109,16.02,Electricity,Winter tires,1,0,1,Normal,14.7,0,0,42.0,2.0,Restreichweite 14km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.899756944,43412,87,13.22,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,41.0,2.5,Restreichweite 53km = Total 140km,1,1
+Volkswagen,Golf,e-Golf,0.816423611,43325,48,9.22,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,39.0,6.5,Restreichweite 74km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.691423611,43180,24,3.36,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,43.0,1.3,Restreichweite 140km = Total 164km,1,1
+Volkswagen,Golf,e-Golf,0.649756944,43156,72,13.68,Electricity,Winter tires,1,0,1,Normal,19.0,0,0,39.0,6.3,Restreichweite 32km = Total 104km,1,1
+Volkswagen,Golf,e-Golf,0.566423611,43084,22,4.35,Electricity,Winter tires,1,0,1,Normal,19.8,0,0,43.0,7.1,Restreichweite 116km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,0.524756944,43062,31,6.26,Electricity,Winter tires,1,0,1,Normal,20.2,0,0,44.0,7.5,3.5°C ,1,1
+Volkswagen,Golf,e-Golf,0.483090278,43031,82,15.17,Electricity,Winter tires,1,0,1,Normal,18.5,0,0,50.0,5.8,2°C. ,1,1
+Volkswagen,Golf,e-Golf,0.441423611,42949,63,8.37,Electricity,Winter tires,1,0,1,Normal,13.3,0,0,55.0,0.6,9°C. Ohne Heizung,1,1
+Volkswagen,Golf,e-Golf,0.399756944,42886,31,3.93,Electricity,Winter tires,1,0,1,Normal,12.7,0,0,45.0,0.0,"8°C. Keine Heizung gebraucht, nur Sitzheizung",1,1
+Volkswagen,Golf,e-Golf,0.358090278,42855,73,13.43,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,43.0,5.7,Restreichweite 38km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.274756944,42782,74,14.13,Electricity,Winter tires,1,0,1,Normal,19.1,0,0,45.0,6.4,Restreichweite 35km = Total 109km,1,1
+Volkswagen,Golf,e-Golf,0.191423611,42708,55,11.27,Electricity,Winter tires,1,0,1,Normal,20.5,0,0,43.0,7.8,Restreichweite 52km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,0.108090278,42653,87,14.09,Electricity,Winter tires,1,0,1,Normal,16.2,0,0,47.0,3.5,Restreichweite 44km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.066423611,42566,58,10.84,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,42.0,6.0,Restreichweite 53km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,31.01.2019,42508,67,14.07,Electricity,Winter tires,1,0,1,Normal,21.0,0,0,43.0,8.3,Restreichweite 34km = Total 101km,1,1
+Volkswagen,Golf,e-Golf,29.01.2019,42441,34,6.39,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,42.0,6.1,Restreichweite 109km = Total 143km,1,1
+Volkswagen,Golf,e-Golf,28.01.2019,42407,23,4.87,Electricity,Winter tires,1,0,1,Normal,21.2,0,0,42.0,8.5,,1,1
+Volkswagen,Golf,e-Golf,27.01.2019,42384,76,14.44,Electricity,Winter tires,1,0,1,Normal,19.0,0,0,45.0,6.3,Restreichweite 29km = Total 105km,1,1
+Volkswagen,Golf,e-Golf,25.01.2019,42308,54,10.2,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,49.0,6.2,,1,1
+Volkswagen,Golf,e-Golf,24.01.2019,42254,61,12.74,Electricity,Winter tires,1,0,1,Normal,20.9,0,0,45.0,8.2,Restreichweite 37km = Total 98km,1,1
+Volkswagen,Golf,e-Golf,0.940729167,42193,61,11.59,Electricity,Winter tires,1,0,1,Normal,19.0,0,0,41.0,6.3,Restreichweite 57km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.8990625,42132,39,8.5,Electricity,Winter tires,1,0,1,Normal,21.8,0,0,42.0,9.1,Restreichweite 64km = Total 103km,1,1
+Volkswagen,Golf,e-Golf,0.7740625,42093,72,12.74,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,38.0,5.0,Restreichweite 40km = Total 112km,1,1
+Volkswagen,Golf,e-Golf,0.690729167,42021,74,12.72,Electricity,Winter tires,1,0,1,Normal,17.2,0,0,41.0,4.5,Restreichweite 53km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,0.6490625,41947,55,10.56,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,43.0,6.5,Restreichweite 66km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.607395833,41892,30,6.21,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,44.0,8.0,Restreichweite 90km = Total 120km,1,1
+Volkswagen,Golf,e-Golf,0.565729167,41862,44,8.09,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,41.0,5.7,Restreichweite 80km = 124km,1,1
+Volkswagen,Golf,e-Golf,0.482395833,41818,67,13.46,Electricity,Winter tires,1,0,1,Normal,20.1,0,0,43.0,7.4,Restreichweite 43km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,0.440729167,41751,35,8.3,Electricity,Winter tires,1,0,1,Normal,23.7,0,0,37.0,11.0,Restreichweite 68km = Total 103km,1,1
+Volkswagen,Golf,e-Golf,0.3990625,41716,66,13.66,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,42.0,8.0,Restreichweite 35km = Total 101km,1,1
+Volkswagen,Golf,e-Golf,0.315729167,41650,52,10.76,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,42.0,8.0,Restreichweite 48km = Total 100km,1,1
+Volkswagen,Golf,e-Golf,0.190729167,41598,62,11.65,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,44.0,6.1,Restreichweite 56km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.1490625,41536,25,5.15,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,51.0,7.9,Restreichweite 82km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,0.107395833,41511,96,15.74,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,44.0,3.7,Restreichweite 14km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,30.12.2018,41415,24,4.36,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,44.0,5.5,,1,1
+Volkswagen,Golf,e-Golf,30.12.2018,41391,67,13.73,Electricity,Winter tires,1,0,1,Normal,20.5,0,0,45.0,7.8,Restreichweite 31km = Total 98km! ,1,1
+Volkswagen,Golf,e-Golf,27.12.2018,41324,17,3.51,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,39.0,8.0,,1,1
+Volkswagen,Golf,e-Golf,27.12.2018,41307,57,10.71,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,40.0,6.1,Restreichweite 68km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,26.12.2018,41250,60,9.72,Electricity,Winter tires,1,1,1,Normal,16.2,0,0,59.0,3.5,,1,1
+Volkswagen,Golf,e-Golf,26.12.2018,41138,13,2.5,Electricity,Winter tires,1,1,0,Normal,19.3,0,0,35.0,6.6,CCS Grauholz gratis,1,1
+Volkswagen,Golf,e-Golf,25.12.2018,41010,66,9.7,Electricity,Winter tires,1,0,1,Normal,14.7,0,0,44.0,2.0,,1,1
+Volkswagen,Golf,e-Golf,0.990023148,40944,92,13.15,Electricity,Winter tires,1,0,1,Normal,14.3,0,0,45.0,1.6,Restreichweite 48km = Total 140km,1,1
+Volkswagen,Golf,e-Golf,0.865023148,40852,53,9.85,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,44.0,5.9,Restreichweite 63km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,0.823356481,40799,54,11.44,Electricity,Winter tires,1,0,1,Normal,21.2,0,0,41.0,8.5,Restreichweite 50km = Total 104km,1,1
+Volkswagen,Golf,e-Golf,0.781689815,40745,62,13.08,Electricity,Winter tires,1,0,1,Normal,21.1,0,0,43.0,8.4,,1,1
+Volkswagen,Golf,e-Golf,0.656689815,40565,41,7.54,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,38.0,5.7,,1,1
+Volkswagen,Golf,e-Golf,0.615023148,40470,86,14.7,Electricity,Winter tires,1,1,1,Normal,17.1,0,0,48.0,4.4,CCS IWB Basel Restreichweite 36km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.573356481,40384,45,9.09,Electricity,Winter tires,1,0,1,Normal,20.2,0,0,44.0,7.5,Restreichweite 64km = Total 109km,1,1
+Volkswagen,Golf,e-Golf,0.531689815,40339,68,12.17,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,39.0,5.2,Restreichweite 46km = Total 114km,1,1
+Volkswagen,Golf,e-Golf,0.490023148,40271,63,12.34,Electricity,Winter tires,1,0,1,Normal,19.6,0,0,43.0,6.9,Temp.Minus 1.5°C. Restreichweite 46km = Total 109km ,1,1
+Volkswagen,Golf,e-Golf,0.448356481,40208,55,8.96,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,42.0,3.6,,1,1
+Volkswagen,Golf,e-Golf,0.406689815,40153,112,16.01,Electricity,Winter tires,1,1,1,Normal,14.3,0,0,56.0,1.6,Restreichweite 19km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.365023148,40041,65,8.64,Electricity,Winter tires,1,0,1,Normal,13.3,0,0,38.0,0.6,Restreichweite 83km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,0.240023148,39939,86,12.55,Electricity,Winter tires,1,0,1,Normal,14.6,0,0,44.0,1.9,"Schnellladung in Bad Zurzach gratis, Parkgebühr Fr.1.-",1,1
+Volkswagen,Golf,e-Golf,0.115023148,39853,91,14.47,Electricity,Winter tires,1,0,1,Normal,15.9,0,0,45.0,3.2,"Schnellladung Bad Zurzach Strom gratis, Parkgebühr Fr.1.-",1,1
+Volkswagen,Golf,e-Golf,28.11.2018,39762,55,9.41,Electricity,Winter tires,1,0,1,Normal,17.1,0,0,45.0,4.4,Schnellladung Bad Zurzach Parkgebühr 1.-,1,1
+Volkswagen,Golf,e-Golf,27.11.2018,39707,77,14.78,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,41.0,6.5,Schnellladung Bad Zurzach Parkgebühr 1.-,1,1
+Volkswagen,Golf,e-Golf,25.11.2018,39630,69,13.73,Electricity,Winter tires,1,0,1,Normal,19.9,0,0,45.0,7.2,Restreichweite 35km = Total 104km ,1,1
+Volkswagen,Golf,e-Golf,0.947662037,39561,34,6.02,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,45.0,5.0,Restreichweite 101km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.90599537,39527,27,5.32,Electricity,Winter tires,1,0,1,Normal,19.7,0,0,40.0,7.0,Restreichweite 108km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.864328704,39500,63,11.66,Electricity,Winter tires,1,0,1,Normal,18.5,0,0,42.0,5.8,Restreichweite 44km = Total 107km,1,1
+Volkswagen,Golf,e-Golf,0.739328704,39320,43,6.15,Electricity,Winter tires,1,0,1,Normal,14.3,0,0,44.0,1.6,Restreichweite 117km = Total 160km,1,1
+Volkswagen,Golf,e-Golf,0.697662037,39277,83,11.87,Electricity,Winter tires,1,0,1,Normal,14.3,0,0,44.0,1.6,Restreichweite 52km = Total 135km,1,1
+Volkswagen,Golf,e-Golf,0.614328704,39194,79,12.4,Electricity,Winter tires,1,0,1,Normal,15.7,0,0,40.0,3.0,Restreichweite 57km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,0.489328704,39115,78,10.45,Electricity,Winter tires,1,1,1,Normal,13.4,0,0,50.0,0.7,,1,1
+Volkswagen,Golf,e-Golf,0.447662037,39037,96,14.49,Electricity,Winter tires,1,1,1,Normal,15.1,0,0,50.0,2.4,Aufgeladen bei Freunden zuhause,1,1
+Volkswagen,Golf,e-Golf,0.40599537,38941,101,13.02,Electricity,Winter tires,1,0,1,Normal,12.9,0,0,48.0,0.2,Restreichweite 57km = Total 158km,1,1
+Volkswagen,Golf,e-Golf,0.322662037,38840,60,9.48,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,43.0,3.1,Restreichweite 63km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.239328704,38780,112,15.34,Electricity,Winter tires,1,0,1,Normal,13.7,0,0,43.0,1.0,Restreichweite 34km = Total 146km,1,1
+Volkswagen,Golf,e-Golf,0.072662037,38668,130,14.56,Electricity,Winter tires,1,0,1,Normal,11.2,0,0,47.0,-1.5,Restreichweite 50km = Total 180km,1,1
+Volkswagen,Golf,e-Golf,31.10.2018,38538,57,9.8,Electricity,Winter tires,1,0,1,Normal,17.2,0,0,46.0,4.5,Restreichweite 69km = Total 126km,1,1
+Volkswagen,Golf,e-Golf,30.10.2018,38481,72,10.94,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,47.0,2.5,Restreichweite 70km = Total 142km,1,1
+Volkswagen,Golf,e-Golf,29.10.2018,38409,65,10.6,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,43.0,3.6,Restreichweite 62km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,28.10.2018,38344,32,4.74,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,40.0,2.1,,1,1
+Volkswagen,Golf,e-Golf,25.10.2018,38312,161,18.51,Electricity,Winter tires,1,1,1,Normal,11.5,0,0,50.0,-1.2,Restreichweite 2km! = Total 163km,1,1
+Volkswagen,Golf,e-Golf,24.10.2018,38151,91,12.01,Electricity,Winter tires,1,0,1,Normal,13.2,0,0,40.0,0.5,Restreichweite 64km = Total 155km,1,1
+Volkswagen,Golf,e-Golf,0.863634259,37965,50,6.4,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,40.0,0.1,Restreichweite 117km = Total 167km,1,1
+Volkswagen,Golf,e-Golf,0.780300926,37915,46,5.98,Electricity,Winter tires,1,0,1,Normal,13.0,0,0,38.0,0.3,Restreichweite 107km = Total 153km,1,1
+Volkswagen,Golf,e-Golf,0.738634259,37869,24,2.83,Electricity,Winter tires,1,0,1,Normal,11.8,0,0,44.0,-0.9,,1,1
+Volkswagen,Golf,e-Golf,0.738634259,37845,141,17.34,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,45.0,-0.4,Restreichweite 10km = Total 151km,0,1
+Volkswagen,Golf,e-Golf,0.613634259,37704,95,10.73,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,53.0,-1.4,Restreichweite 82km = Total 177km,0,1
+Volkswagen,Golf,e-Golf,0.571967593,37609,84,9.82,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,42.0,-1.0,Restreichweite 83km = Total 167km ,0,1
+Volkswagen,Golf,e-Golf,0.530300926,37525,133,16.35,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,44.0,-0.4,Restreichweite 16km = Total 149km,0,1
+Volkswagen,Golf,e-Golf,0.363634259,37392,112,13.55,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,58.0,-0.6,,0,1
+Volkswagen,Golf,e-Golf,0.280300926,37144,68,8.22,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,49.0,-0.6,Restreichweite 103km = Total 171km kostenlose Schnellladung,0,1
+Volkswagen,Golf,e-Golf,0.238634259,37076,57,7.46,Electricity,Summer tires,1,0,1,Normal,13.1,0,0,41.0,0.4,Restreichweite 106km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.155300926,37019,141,16.07,Electricity,Summer tires,1,1,1,Normal,11.4,0,0,41.0,-1.3,Restreichweite 20km = Total 161km,0,1
+Volkswagen,Golf,e-Golf,0.113634259,36878,55,7.53,Electricity,Summer tires,1,0,1,Normal,13.7,0,0,50.0,1.0,Restreichweite 109km = Total 164km,0,1
+Volkswagen,Golf,e-Golf,0.071967593,36823,51,6.52,Electricity,Summer tires,1,0,1,Normal,12.8,0,0,47.0,0.1,,0,1
+Volkswagen,Golf,e-Golf,30.09.2018,36772,140,15.82,Electricity,Summer tires,1,1,1,Normal,11.3,0,0,48.0,-1.4,Restreichweite 35km = Total 175km,0,1
+Volkswagen,Golf,e-Golf,29.09.2018,36534,68,7.88,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,43.0,-1.1,Restreichweite 107km = Total 175km,0,1
+Volkswagen,Golf,e-Golf,28.09.2018,36466,93,11.25,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,46.0,-0.6,Restreichweite 76km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,26.09.2018,36373,86,10.4,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,44.0,-0.6,Restreichweite 86km = Total 172km,0,1
+Volkswagen,Golf,e-Golf,24.09.2018,36287,65,7.73,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,45.0,-0.8,,0,1
+Volkswagen,Golf,e-Golf,0.987939815,36222,91,10.82,Electricity,Summer tires,1,1,1,Normal,11.9,0,0,52.0,-0.8,,0,1
+Volkswagen,Golf,e-Golf,0.946273148,36131,131,14.93,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,40.0,-1.3,Restreichweite 29km = Total 160km,0,1
+Volkswagen,Golf,e-Golf,0.862939815,36000,23,2.62,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,42.0,-1.3,,0,1
+Volkswagen,Golf,e-Golf,0.821273148,35977,140,16.66,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,46.0,-0.8,Restreichweite 17km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,0.612939815,35602,117,13.92,Electricity,Summer tires,1,1,1,Normal,11.9,1,0,42.0,-0.8,Restreichweite 54km = Total 171km,0,1
+Volkswagen,Golf,e-Golf,0.529606481,35485,102,11.73,Electricity,Summer tires,1,0,1,Normal,11.5,1,0,53.0,-1.2,,0,1
+Volkswagen,Golf,e-Golf,0.487939815,35383,107,11.77,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,44.0,-1.7,,0,1
+Volkswagen,Golf,e-Golf,0.404606481,35276,156,17.62,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,41.0,-1.4,Restreichweite 12km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.237939815,35120,122,13.78,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,43.0,-1.4,Restreichweite 40km = Total 162km,0,1
+Volkswagen,Golf,e-Golf,0.071273148,34890,53,6.52,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,40.0,-0.4,Restreichweite 104km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,29.08.2018,34837,123,13.65,Electricity,Summer tires,1,0,1,Moderate,11.1,0,0,43.0,-1.6,Restreichweite 56km = Total 179km,0,0
+Volkswagen,Golf,e-Golf,24.08.2018,34596,145,17.26,Electricity,Summer tires,1,1,1,Normal,11.9,1,0,44.0,-0.8,Restreichweite 19km = Total 164km,0,1
+Volkswagen,Golf,e-Golf,0.98724537,34451,62,6.51,Electricity,Summer tires,1,0,1,Normal,10.5,1,0,43.0,-2.2,Restreichweite 128km = Total 190km!,0,1
+Volkswagen,Golf,e-Golf,0.86224537,34389,127,13.46,Electricity,Summer tires,1,0,1,Normal,10.6,1,0,46.0,-2.1,Restreichweite 59km = Total 186km,0,1
+Volkswagen,Golf,e-Golf,0.778912037,34262,119,14.99,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,56.0,-0.1,Restreichweite 38km = Total 157km,0,1
+Volkswagen,Golf,e-Golf,0.73724537,34143,42,5.08,Electricity,Summer tires,1,0,1,Normal,12.1,1,0,41.0,-0.6,Restreichweite 132km = Total 174km,0,1
+Volkswagen,Golf,e-Golf,0.653912037,33977,125,14.12,Electricity,Summer tires,1,1,1,Normal,11.3,1,0,46.0,-1.4,Restreichweite 43km = Total 168km,0,1
+Volkswagen,Golf,e-Golf,0.528912037,33852,102,10.6,Electricity,Summer tires,1,1,1,Normal,10.4,1,0,54.0,-2.3,Restreichweite 90km = Total 192km!,0,1
+Volkswagen,Golf,e-Golf,0.48724537,33750,123,13.89,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,41.0,-1.4,Restreichweite 45km = Total 168km,0,1
+Volkswagen,Golf,e-Golf,0.36224537,33627,84,9.15,Electricity,Summer tires,1,0,1,Normal,10.9,1,0,44.0,-1.8,,0,1
+Volkswagen,Golf,e-Golf,0.195578704,33370,54,6.37,Electricity,Summer tires,1,0,1,Normal,11.8,1,0,40.0,-0.9,Restreichweite 129km = Total 183km,0,1
+Volkswagen,Golf,e-Golf,0.11224537,33316,117,13.1,Electricity,Summer tires,1,0,1,Normal,11.2,1,0,39.0,-1.5,Restreichweite 59km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.278217593,33086,109,12.09,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,42.0,-1.6,,0,1
+Volkswagen,Golf,e-Golf,0.194884259,32977,138,14.76,Electricity,Summer tires,1,0,1,Normal,10.7,1,0,43.0,-2.0,Restreichweite 41km = Total 179km nicht ganz voll geladen,0,1
+Volkswagen,Golf,e-Golf,0.069884259,32719,75,8.1,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,53.0,-1.9,Restreichweite 112km = Total 187km,0,1
+Volkswagen,Golf,e-Golf,29.06.2018,32644,79,8.45,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,44.0,-2.0,,0,1
+Volkswagen,Golf,e-Golf,28.06.2018,32564,125,13.25,Electricity,Summer tires,1,0,1,Normal,10.6,1,0,43.0,-2.1,,0,1
+Volkswagen,Golf,e-Golf,26.06.2018,32439,130,14.3,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,43.0,-1.7,Restreichweite 50km = Total 180km,0,1
+Volkswagen,Golf,e-Golf,0.985856481,32310,138,14.76,Electricity,Summer tires,1,0,1,Moderate,10.7,1,0,46.0,-2.0,Restreichweite 42km = Total 180km,0,0
+Volkswagen,Golf,e-Golf,0.902523148,32171,85,9.09,Electricity,Summer tires,1,0,1,Normal,10.7,1,0,42.0,-2.0,Restreichweite 100km = Total 185km,0,1
+Volkswagen,Golf,e-Golf,0.860856481,32087,136,15.5,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,43.0,-1.3,Restreichweite 31km = Total 167km,0,1
+Volkswagen,Golf,e-Golf,0.735856481,31951,131,14.14,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,41.0,-1.9,Restreichweite 41km = Total 172km,0,1
+Volkswagen,Golf,e-Golf,0.652523148,31820,78,8.97,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,43.0,-1.2,Restreichweite 105km = Total 183km,0,1
+Volkswagen,Golf,e-Golf,0.569189815,31742,89,10.5,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,38.0,-0.9,Restreichweite 86km = Total 175km,0,1
+Volkswagen,Golf,e-Golf,0.485856481,31653,132,14.65,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,45.0,-1.6,Restreichweite 44km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.444189815,31521,46,5.38,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,55.0,-1.0,Restreichweite 140km = Total 185km,0,1
+Volkswagen,Golf,e-Golf,0.360856481,31475,112,12.88,Electricity,Summer tires,1,1,1,Normal,11.5,1,0,53.0,-1.2,Restreichweite 64km = Total 176km,0,1
+Volkswagen,Golf,e-Golf,0.277523148,31363,84,9.4,Electricity,Summer tires,1,1,1,Normal,11.2,0,0,49.0,-1.5,Restreichweite 103km = Total 187km,0,1
+Volkswagen,Golf,e-Golf,0.235856481,31279,51,5.96,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,39.0,-1.0,Restreichweite 131km = Total 182km,0,1
+Volkswagen,Golf,e-Golf,0.110856481,31228,121,15.24,Electricity,Summer tires,1,1,1,Normal,12.6,0,0,57.0,-0.1,Restreichweite 32km = Total 153km,0,1
+Volkswagen,Golf,e-Golf,0.069189815,31107,66,7.26,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,41.0,-1.7,Restreichweite 122km = Total 188km,0,1
+Volkswagen,Golf,e-Golf,30.05.2018,31041,134,14.87,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,36.0,-1.6,Restreichweite 35km = Total 169km,0,1
+Volkswagen,Golf,e-Golf,29.05.2018,30907,33,3.92,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,43.0,-0.8,Restreichweite 157km = Total 190km,0,1
+Volkswagen,Golf,e-Golf,27.05.2018,30874,137,14.79,Electricity,Summer tires,1,1,1,Normal,10.8,1,0,49.0,-1.9,Restreichweite 45km = Total 182km,0,1
+Volkswagen,Golf,e-Golf,25.05.2018,30737,95,11.02,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,43.0,-1.1,REstreichweite 84km = Total 179km,0,1
+Volkswagen,Golf,e-Golf,0.94349537,30642,90,9.54,Electricity,Summer tires,1,0,1,Normal,10.6,0,0,45.0,-2.1,,0,1
+Volkswagen,Golf,e-Golf,0.81849537,30552,150,17.55,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,45.0,-1.0,Restreichweite 14km = Total 164km. Gratis geladen bei ABB Baden-Dättwil,0,1
+Volkswagen,Golf,e-Golf,0.735162037,30402,94,12.97,Electricity,Summer tires,1,0,1,Normal,13.8,0,0,42.0,1.1,,0,1
+Volkswagen,Golf,e-Golf,0.610162037,30308,76,9.12,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,44.0,-0.7,,0,1
+Volkswagen,Golf,e-Golf,0.526828704,29888,10,0.99,Electricity,Summer tires,1,0,1,Normal,9.9,0,0,42.0,-2.8,,0,1
+Volkswagen,Golf,e-Golf,0.485162037,29878,118,13.68,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,45.0,-1.1,"Restreichweite 54km = Total 172km. Strom Gratis, aber Fr.1.- Parkgebühr.",0,1
+Volkswagen,Golf,e-Golf,0.360162037,29760,106,11.66,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,43.0,-1.7,Restreichweite 74km = Total 180km,0,1
+Volkswagen,Golf,e-Golf,0.276828704,29654,114,14.13,Electricity,Summer tires,1,1,1,Normal,12.4,0,0,58.0,-0.3,Restreichweite 47km = Total 161km. Davon 50km Autobahn mit 110km/h,0,1
+Volkswagen,Golf,e-Golf,0.235162037,29540,97,12.02,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,40.0,-0.3,"Restreichweite 69km = Total 166km. Strom kostenlos, aber Fr.1.00.- Parkgebühr",0,1
+Volkswagen,Golf,e-Golf,0.110162037,29443,128,17.15,Electricity,Summer tires,1,1,1,Normal,13.4,0,0,55.0,0.7,Restreichweite 18km = Total 146km. Davon 60km Autobahn mit 120Km/h,0,1
+Volkswagen,Golf,e-Golf,0.06849537,29315,31,3.75,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,45.0,-0.6,,0,1
+Volkswagen,Golf,e-Golf,0.06849537,29284,109,12.97,Electricity,Summer tires,1,0,1,Moderate,11.9,0,0,39.0,-0.8,Restreichweite 67km = Total 176km,0,0
+Volkswagen,Golf,e-Golf,28.04.2018,29175,113,14.01,Electricity,Summer tires,1,0,1,Moderate,12.4,0,0,34.0,-0.3,Restreichweite 47km = Total 160km,0,0
+Volkswagen,Golf,e-Golf,0.942800926,29062,27,3.1,Electricity,Winter tires,1,0,1,Normal,11.5,0,0,45.0,-1.2,,1,1
+Volkswagen,Golf,e-Golf,0.817800926,28869,71,8.31,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,43.0,-1.0,Restreichweite 109km = Total 180km,1,1
+Volkswagen,Golf,e-Golf,0.776134259,28798,47,5.64,Electricity,Winter tires,1,0,1,Normal,12.0,0,0,44.0,-0.7,Restreichweite 140km = Total 187km,1,1
+Volkswagen,Golf,e-Golf,0.734467593,28751,83,10.37,Electricity,Winter tires,1,0,1,Normal,12.5,0,0,40.0,-0.2,Restreichweite 90km = Total 173km,1,1
+Volkswagen,Golf,e-Golf,0.567800926,28668,135,17.41,Electricity,Winter tires,1,1,1,Normal,12.9,0,0,53.0,0.2,Restreichweite 16km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,0.526134259,28533,110,13.86,Electricity,Winter tires,1,0,1,Normal,12.6,0,0,46.0,-0.1,Restreichweite 48km = Total 158km,1,1
+Volkswagen,Golf,e-Golf,0.317800926,28423,130,16.25,Electricity,Winter tires,1,1,1,Normal,12.5,0,0,56.0,-0.2,17°C. Restreichweite 29km = Total 159km,1,1
+Volkswagen,Golf,e-Golf,0.317800926,28293,19,2.86,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,38.0,2.4,Restreichweite 142km = Total 161km,1,1
+Volkswagen,Golf,e-Golf,0.234467593,28274,113,16.04,Electricity,Winter tires,1,1,1,Normal,14.2,0,0,45.0,1.5,Restreichweite 25km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,30.03.2018,28161,53,7.84,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,57.0,2.1,7°C bis 8.5°C. ,1,1
+Volkswagen,Golf,e-Golf,30.03.2018,28108,86,14.36,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,53.0,4.0,3.5°C bis 9°C. Restreichweite 38km = Total 124km. DC-Ladung gratis ,1,1
+Volkswagen,Golf,e-Golf,29.03.2018,28022,70,8.61,Electricity,Winter tires,1,0,1,Normal,12.3,0,0,44.0,-0.4,5.5°C bis 10°C. Restreichweite 100km = Total 170km,1,1
+Volkswagen,Golf,e-Golf,28.03.2018,27952,84,12.76,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,44.0,2.5,3.5°C bis 10.5°C. Restreichweite 49km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,26.03.2018,27868,89,11.57,Electricity,Winter tires,1,0,1,Normal,13.0,0,0,50.0,0.3,3.5°C bis 11°C. ,1,1
+Volkswagen,Golf,e-Golf,25.03.2018,27779,82,10.66,Electricity,Winter tires,1,0,1,Normal,13.0,0,0,46.0,0.3,3.5°C bis 15°C. ,1,1
+Volkswagen,Golf,e-Golf,0.983773148,27697,50,6.6,Electricity,Winter tires,1,0,1,Normal,13.2,0,0,46.0,0.5,2.5°C bis 10°C. Restreichweite 114km = Total 164km,1,1
+Volkswagen,Golf,e-Golf,0.942106481,27647,74,12.8,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,52.0,4.6,Heute -4.5°C bis 6°C. Restreichweite 49km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.900439815,27573,57,10.43,Electricity,Winter tires,1,0,1,Normal,18.3,0,0,50.0,5.6,3°C. Restreichweite 64km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.858773148,27516,57,10.94,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,50.0,6.5,2°C. Restreichweite 61km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.817106481,27459,60,11.58,Electricity,Winter tires,1,0,1,Normal,19.3,0,0,41.0,6.6,0°C. Restreichweite 54km = Total 114km,1,1
+Volkswagen,Golf,e-Golf,0.775439815,27399,53,9.32,Electricity,Winter tires,1,0,1,Normal,17.6,0,0,39.0,4.9,2°C.,1,1
+Volkswagen,Golf,e-Golf,0.692106481,27346,122,16.83,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,44.0,1.1,8°C. Restreichweite 15km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.608773148,27224,73,10.8,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,46.0,2.1,8°C. Restreichweite 75km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,0.567106481,27151,75,12.07,Electricity,Winter tires,1,0,1,Normal,16.1,0,0,45.0,3.4,6°C. Restreichweite 56km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.442106481,27076,100,16.2,Electricity,Winter tires,1,1,1,Normal,16.2,0,0,57.0,3.5,8°C. Restreichweite 25km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,0.442106481,26976,12,2.23,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,42.0,5.9,7.5°C. Restreichweite 150km = Total 162km,1,1
+Volkswagen,Golf,e-Golf,0.400439815,26964,92,13.89,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,48.0,2.4,9°C. Restreichweite 45km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.317106481,26872,51,8.05,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,44.0,3.1,5°C. Restreichweite 90km = Total 141km,1,1
+Volkswagen,Golf,e-Golf,0.275439815,26821,58,8.23,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,47.0,1.5,8°C. Restreichweite 100km = Total 158km,1,1
+Volkswagen,Golf,e-Golf,0.233773148,26763,114,16.87,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,50.0,2.1,7°C. Restreichweite 18km = Total 132km,1,1
+Volkswagen,Golf,e-Golf,0.192106481,26649,60,13.26,Electricity,Winter tires,1,0,1,Normal,22.1,0,0,40.0,9.4,4.5°C.,1,1
+Volkswagen,Golf,e-Golf,0.108773148,26589,15,3.55,Electricity,Winter tires,1,0,1,Normal,23.7,0,0,39.0,11.0,3°C unter Null,1,1
+Volkswagen,Golf,e-Golf,28.02.2018,26548,33,7.59,Electricity,Winter tires,1,0,1,Normal,23.0,0,0,44.0,10.3,Temp.5°C unter Null,1,1
+Volkswagen,Golf,e-Golf,27.02.2018,26515,36,8.56,Electricity,Winter tires,1,0,1,Normal,23.8,0,0,46.0,11.1,-9°C! Restreichweite 72km = Total 108km,1,1
+Volkswagen,Golf,e-Golf,25.02.2018,26447,64,10.43,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,56.0,3.6,,1,1
+Volkswagen,Golf,e-Golf,25.02.2018,26383,66,11.88,Electricity,Winter tires,1,0,1,Normal,18.0,0,0,57.0,5.3,Schnellladung Singen/D gratis,1,1
+Volkswagen,Golf,e-Golf,25.02.2018,26317,28,5.76,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,44.0,7.9,Schnellladung Bodenseecenter Friedrichshafen 35Rp./KWh,1,1
+Volkswagen,Golf,e-Golf,24.02.2018,26221,20,3.54,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,49.0,5.0,Schnellladung gratis,1,1
+Volkswagen,Golf,e-Golf,24.02.2018,26201,44,8.22,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,49.0,6.0,Schnellladung gratis,1,1
+Volkswagen,Golf,e-Golf,24.02.2018,26157,18,3.38,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,41.0,6.1,Restreichweite 140km = Total 158km,1,1
+Volkswagen,Golf,e-Golf,0.983078704,26139,54,11.77,Electricity,Winter tires,1,0,1,Normal,21.8,0,0,45.0,9.1,Restreichweite 50km = Total 104km,1,1
+Volkswagen,Golf,e-Golf,0.941412037,26085,55,11.11,Electricity,Winter tires,1,0,1,Normal,20.2,0,0,43.0,7.5,Restreichweite 57km = Total 112km,1,1
+Volkswagen,Golf,e-Golf,0.89974537,26030,25,5.37,Electricity,Winter tires,1,0,1,Normal,21.5,0,0,37.0,8.8,Restreichweite 106km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.858078704,26005,48,9.36,Electricity,Winter tires,1,0,1,Normal,19.5,0,0,46.0,6.8,Restreichweite 69km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,0.816412037,25957,61,12.99,Electricity,Winter tires,1,0,1,Normal,21.3,0,0,41.0,8.6,Restreichweite 35km = Total 95km! Kalt und nur Kurzstrecken<br />,1,1
+Volkswagen,Golf,e-Golf,0.691412037,25896,66,13.2,Electricity,Winter tires,1,0,1,Normal,20.0,0,0,35.0,7.3,Restreichweite 45km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.608078704,25830,34,7.07,Electricity,Winter tires,1,0,1,Normal,20.8,0,0,44.0,8.1,Restreichweite 88km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.566412037,25796,92,16.74,Electricity,Winter tires,1,1,1,Normal,18.2,0,0,56.0,5.5,,1,1
+Volkswagen,Golf,e-Golf,0.483078704,25536,78,11.38,Electricity,Winter tires,1,1,1,Normal,14.6,0,0,59.0,1.9,Schnellladung Amag Lausanne: 72Rp./Kwh,1,1
+Volkswagen,Golf,e-Golf,0.441412037,25458,51,7.03,Electricity,Winter tires,1,1,1,Normal,13.8,0,0,51.0,1.1,Schnellladung Amag Lausanne: 72Rp./KWh,1,1
+Volkswagen,Golf,e-Golf,0.39974537,25237,96,15.36,Electricity,Winter tires,1,0,1,Normal,16.0,0,1,48.0,3.3,Restreichweite 27km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.316412037,25141,73,13.06,Electricity,Winter tires,1,0,1,Normal,17.9,0,1,51.0,5.2,Restreichweite 49km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.27474537,25068,62,12.27,Electricity,Winter tires,1,0,1,Normal,19.8,0,1,42.0,7.1,Restreichweite 53km = Total 115km,1,1
+Volkswagen,Golf,e-Golf,0.233078704,25006,28,6.38,Electricity,Winter tires,1,0,1,Normal,22.8,0,1,43.0,10.1,Restreichweite 89km = Total 117km,1,1
+Volkswagen,Golf,e-Golf,0.14974537,24978,105,15.12,Electricity,Winter tires,1,0,1,Normal,14.4,0,1,38.0,1.7,,1,1
+Volkswagen,Golf,e-Golf,25.01.2018,24873,62,7.99,Electricity,Winter tires,1,1,1,Normal,12.9,0,1,41.0,0.2,10°C. Ohne Heizung. Gratisladen ABB 50kw,1,1
+Volkswagen,Golf,e-Golf,25.01.2018,24811,87,14.87,Electricity,Winter tires,1,0,1,Normal,17.1,0,1,57.0,4.4,3°C. Heizung 100% an. An bezahlter Ladestation 20kw. Restreichweite 35km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,24.01.2018,24724,47,8.27,Electricity,Winter tires,1,0,1,Normal,17.6,0,1,46.0,4.9,8°C. Heizung 60% an. Restreichweite 87km = Total 134km,1,1
+Volkswagen,Golf,e-Golf,0.982384259,24677,65,11.31,Electricity,Winter tires,1,0,1,Normal,17.4,0,1,40.0,4.7,6°C. Heizung 70% an. Restreichweite 62km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,0.857384259,24612,75,13.27,Electricity,Winter tires,1,0,1,Normal,17.7,0,1,44.0,5.0,7°C. Heizung 80% an. Restreichweite 46km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.774050926,24537,39,8.69,Electricity,Winter tires,1,0,1,Normal,22.3,0,1,40.0,9.6,6°C. Heizung 100% an. Restreichweite 73km = Total 112km,1,1
+Volkswagen,Golf,e-Golf,0.690717593,24498,45,8.91,Electricity,Winter tires,1,0,1,Normal,19.8,0,1,41.0,7.1,5°C. Heizung 100% an. Restreichweite 76km = Total 121km,1,1
+Volkswagen,Golf,e-Golf,0.649050926,24453,47,9.72,Electricity,Winter tires,1,0,1,Normal,20.7,0,1,41.0,8.0,4°C. Heizung 100% an. Restreichweite 64km = Total 111km,1,1
+Volkswagen,Golf,e-Golf,0.565717593,24406,76,13.75,Electricity,Winter tires,1,0,1,Normal,18.1,0,1,47.0,5.4,0°C. Heizung 100% an. Restreichweite 40km = Total 116km,1,1
+Volkswagen,Golf,e-Golf,0.524050926,24330,31,5.92,Electricity,Winter tires,1,0,1,Normal,19.1,0,1,39.0,6.4,4°C. Heizung 100% an. Restreichweite 104km = Total 134km,1,1
+Volkswagen,Golf,e-Golf,0.482384259,24299,48,9.07,Electricity,Winter tires,1,0,1,Normal,18.9,0,1,46.0,6.2,4°C. Heizung 100% an. Restreichweite 78km = Total 126km,1,1
+Volkswagen,Golf,e-Golf,0.440717593,24251,37,7.69,Electricity,Winter tires,1,0,1,Normal,20.8,0,1,40.0,8.1,4°C. Heizung an. Restreichweite 81km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.399050926,24214,88,14.96,Electricity,Winter tires,1,0,1,Normal,17.0,0,1,46.0,4.3,6°C. Heizung 60% an. Restreichweite 88km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.357384259,24126,32,5.18,Electricity,Winter tires,1,0,1,Normal,16.2,0,1,43.0,3.5,7°C. Heizung 30% an. Restreichweite 128km = Total 160km,1,1
+Volkswagen,Golf,e-Golf,0.274050926,23964,32,3.96,Electricity,Winter tires,1,0,1,Normal,12.4,0,1,46.0,-0.3,10°C. Keine Heizung gebraucht. Restreichweite 144km = Total 176km,1,1
+Volkswagen,Golf,e-Golf,0.232384259,23932,40,6.88,Electricity,Winter tires,1,0,1,Normal,17.2,0,1,44.0,4.5,8°C. Restreichweite 97km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.149050926,23892,94,15.88,Electricity,Winter tires,1,0,1,Normal,16.9,0,1,46.0,4.2,6°C. Restreichweite 27km = Total 121km nur Kurzstrecken,1,1
+Volkswagen,Golf,e-Golf,30.12.2017,23667,78,10.45,Electricity,Winter tires,1,0,1,Normal,13.4,0,1,44.0,0.7,10°C. Akku war nach laden nicht voll. Regen.,1,1
+Volkswagen,Golf,e-Golf,30.12.2017,23589,45,8.68,Electricity,Winter tires,1,0,1,Normal,19.3,0,1,43.0,6.6,3°C. Restreichweite 80km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,28.12.2017,23544,38,8.05,Electricity,Winter tires,1,0,1,Normal,21.2,0,1,46.0,8.5,0°C. Restreichweite 81km = Total 119km,1,1
+Volkswagen,Golf,e-Golf,27.12.2017,23506,28,5.37,Electricity,Winter tires,1,0,1,Normal,19.2,0,1,48.0,6.5,2°C. Restreichweite 113km = Total 141km,1,1
+Volkswagen,Golf,e-Golf,26.12.2017,23478,79,14.22,Electricity,Winter tires,1,0,1,Normal,18.0,0,1,47.0,5.3,-0.5°C. Restreichweite 39km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,24.12.2017,23399,78,14.43,Electricity,Winter tires,1,0,1,Normal,18.5,0,1,37.0,5.8,3°C. Restreichweite 29km = Total 107km alles Kurzstrecken.,1,1
+Volkswagen,Golf,e-Golf,0.865011574,23321,23,4.43,Electricity,Winter tires,1,0,1,Normal,19.3,0,1,45.0,6.6,1.5°C. Akku morgens nicht voll.,1,1
+Volkswagen,Golf,e-Golf,0.823344907,23244,58,11.65,Electricity,Winter tires,1,0,1,Normal,20.1,0,1,42.0,7.4,2.5°C. Akku war nicht ganz voll. ,1,1
+Volkswagen,Golf,e-Golf,0.781678241,23186,62,14.07,Electricity,Winter tires,1,0,1,Normal,22.7,0,1,34.0,10.0,1°C. 30 Min. im Stau,1,1
+Volkswagen,Golf,e-Golf,0.698344907,23124,114,18.01,Electricity,Winter tires,1,0,1,Normal,15.8,0,1,49.0,3.1,1.5°C. Restreichweite 10km = Total 124km,1,1
+Volkswagen,Golf,e-Golf,0.698344907,23010,31,5.36,Electricity,Winter tires,1,0,1,Normal,17.3,0,1,32.0,4.6,3.5°C. Restreichweite 113km = Total 144km,1,1
+Volkswagen,Golf,e-Golf,0.656678241,22979,39,7.99,Electricity,Winter tires,1,0,1,Normal,20.5,0,1,42.0,7.8,1.5°C. Restreichweite 86km = Total 125km,1,1
+Volkswagen,Golf,e-Golf,0.615011574,22940,34,7.0,Electricity,Winter tires,1,0,1,Normal,20.6,0,1,38.0,7.9,0.5°C. Restreichweite 89km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.573344907,22906,58,12.23,Electricity,Winter tires,1,0,1,Normal,21.1,0,1,36.0,8.4,0°C. Restreichweite 50km = Total 108km 30 Min. im Stau,1,1
+Volkswagen,Golf,e-Golf,0.531678241,22848,36,6.87,Electricity,Winter tires,1,0,1,Normal,19.1,0,1,46.0,6.4,1°C. Restreichweite 103km = Total 139km,1,1
+Volkswagen,Golf,e-Golf,0.490011574,22812,93,14.22,Electricity,Winter tires,1,1,1,Normal,15.3,0,1,49.0,2.6,Aussentemp. 6°C und Regen,1,1
+Volkswagen,Golf,e-Golf,0.448344907,22719,46,9.15,Electricity,Winter tires,1,0,1,Normal,19.9,0,1,45.0,7.2,2.5°C. Restreichweite 78km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.323344907,22673,70,13.02,Electricity,Winter tires,1,0,1,Normal,18.6,0,1,44.0,5.9,0°C. Restreichweite 53km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.281678241,22603,28,6.08,Electricity,Winter tires,1,0,1,Normal,21.7,0,1,42.0,9.0,1.5°C. Restreichweite 101km = Total 129km,1,1
+Volkswagen,Golf,e-Golf,0.240011574,22575,48,9.6,Electricity,Winter tires,1,0,1,Normal,20.0,0,1,42.0,7.3,2°C. Restreichweite 72km = Total 120km,1,1
+Volkswagen,Golf,e-Golf,0.198344907,22527,53,10.44,Electricity,Winter tires,1,0,1,Normal,19.7,0,1,45.0,7.0,2°C. Restreichweite 70km = Total 123km,1,1
+Volkswagen,Golf,e-Golf,0.156678241,22474,44,8.66,Electricity,Winter tires,1,0,1,Normal,19.7,0,1,41.0,7.0,-1.5°C. Restreichweite 78km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,0.073344907,22430,86,15.98,Electricity,Winter tires,1,0,1,Normal,18.8,0,1,43.0,6.1,-1°C. Restreichweite 24km = Total 110km,1,1
+Volkswagen,Golf,e-Golf,30.11.2017,22344,68,11.22,Electricity,Winter tires,1,1,1,Normal,16.5,1,1,38.0,3.8,2°C. Restreichweite 65km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,29.11.2017,22276,30,5.7,Electricity,Winter tires,1,0,1,Normal,19.0,1,1,38.0,6.3,1°C. Restreichweite 121km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,28.11.2017,22246,47,9.11,Electricity,Winter tires,1,0,1,Normal,19.4,1,1,55.0,6.7,5°C. Restreichweite 75km = Total 122km,1,1
+Volkswagen,Golf,e-Golf,27.11.2017,22199,35,5.91,Electricity,Winter tires,1,0,1,Normal,16.9,1,1,43.0,4.2,6°C. Restreichweite 113km = Total 148km,1,1
+Volkswagen,Golf,e-Golf,26.11.2017,22164,104,16.32,Electricity,Winter tires,1,0,1,Normal,15.7,1,1,49.0,3.0,4°C. Restreichweite 23km = Total 127km,1,1
+Volkswagen,Golf,e-Golf,0.98931713,22060,62,10.35,Electricity,Winter tires,1,0,1,Normal,16.7,1,1,44.0,4.0,Temp. 3°C. Restreichweite 75km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.947650463,21998,64,10.81,Electricity,Winter tires,1,0,1,Normal,16.9,1,1,42.0,4.2,Temp. 1°C. Restreichweite 72km = Total 136km,1,1
+Volkswagen,Golf,e-Golf,0.905983796,21934,67,12.19,Electricity,Winter tires,1,0,1,Normal,18.2,1,1,42.0,5.5,Restreichweite 51km = Total 118km,1,1
+Volkswagen,Golf,e-Golf,0.822650463,21867,38,7.41,Electricity,Winter tires,1,0,1,Normal,19.5,1,1,45.0,6.8,Restreichweite 99km = Total 137km,1,1
+Volkswagen,Golf,e-Golf,0.780983796,21829,79,12.56,Electricity,Winter tires,1,1,1,Normal,15.9,1,1,58.0,3.2,Restreichweite 59km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,0.780983796,21750,18,2.82,Electricity,Winter tires,1,0,1,Normal,15.7,1,1,41.0,3.0,Restreichweite 158km = Total 176km,1,1
+Volkswagen,Golf,e-Golf,0.780983796,21732,45,8.32,Electricity,Winter tires,1,0,1,Normal,18.5,1,1,45.0,5.8,Restreichweite 87km = Total 131km,1,1
+Volkswagen,Golf,e-Golf,0.697650463,21687,39,7.29,Electricity,Winter tires,1,0,1,Normal,18.7,1,1,36.0,6.0,Restreichweite 104km = Total 143km,1,1
+Volkswagen,Golf,e-Golf,0.697650463,21648,44,8.88,Electricity,Winter tires,1,0,1,Normal,20.2,1,1,41.0,7.5,,1,1
+Volkswagen,Golf,e-Golf,0.61431713,21604,54,9.18,Electricity,Winter tires,1,0,1,Normal,17.0,1,1,36.0,4.3,Restreichweite 84km = Total 138km,1,1
+Volkswagen,Golf,e-Golf,0.48931713,21550,118,17.46,Electricity,Winter tires,1,1,1,Normal,14.8,1,1,50.0,2.1,Restreichweite 15km = Total 133km,1,1
+Volkswagen,Golf,e-Golf,0.447650463,21432,11,1.69,Electricity,Winter tires,1,0,1,Normal,15.4,1,1,44.0,2.7,Nicht voll geladen,1,1
+Volkswagen,Golf,e-Golf,0.447650463,21421,33,6.01,Electricity,Winter tires,1,0,1,Normal,18.2,1,1,37.0,5.5,Restreichweite 114km = Total 147km,1,1
+Volkswagen,Golf,e-Golf,0.405983796,21388,41,5.9,Electricity,Winter tires,1,0,1,Normal,14.4,1,1,49.0,1.7,Restreichweite 131km = Total 172km,1,1
+Volkswagen,Golf,e-Golf,0.36431713,21347,54,8.31,Electricity,Winter tires,1,0,1,Normal,15.4,1,1,41.0,2.7,,1,1
+Volkswagen,Golf,e-Golf,0.280983796,21293,65,10.79,Electricity,Winter tires,1,0,1,Normal,16.6,1,1,40.0,3.9,Restreichweite 86km = Total 151km,1,1
+Volkswagen,Golf,e-Golf,0.23931713,21228,21,4.1,Electricity,Winter tires,1,0,1,Normal,19.5,1,1,44.0,6.8,Restreichweite 125km = Total 146km,1,1
+Volkswagen,Golf,e-Golf,0.197650463,21207,77,10.16,Electricity,Winter tires,1,0,1,Normal,13.2,1,1,36.0,0.5,Restreichweite 85km = Total 162km,1,1
+Volkswagen,Golf,e-Golf,0.11431713,21097,65,7.8,Electricity,Winter tires,1,1,1,Normal,12.0,0,1,41.0,-0.7,,1,1
+Volkswagen,Golf,e-Golf,0.072650463,21032,94,12.69,Electricity,Winter tires,1,1,1,Normal,13.5,1,1,55.0,0.8,Restreichweite 67km = Total 161km,1,1
+Volkswagen,Golf,e-Golf,31.10.2017,20938,32,5.18,Electricity,Winter tires,1,0,1,Normal,16.2,1,1,38.0,3.5,Restreichweite 127km = Total 159km,1,1
+Volkswagen,Golf,e-Golf,30.10.2017,20906,11,1.6,Electricity,Winter tires,1,0,1,Normal,14.6,1,1,37.0,1.9,Restreichweite 169km = Total 180km,1,1
+Volkswagen,Golf,e-Golf,29.10.2017,20895,74,9.84,Electricity,Winter tires,1,0,1,Normal,13.3,1,1,46.0,0.6,Restreichweite 88km = Total 162km,1,1
+Volkswagen,Golf,e-Golf,27.10.2017,20821,47,6.72,Electricity,Winter tires,1,0,1,Normal,14.3,1,1,39.0,1.6,Restreichweite 113km = Total 160km,1,1
+Volkswagen,Golf,e-Golf,26.10.2017,20774,52,6.5,Electricity,Winter tires,1,0,1,Normal,12.5,1,1,33.0,-0.2,Restreichweite 128km = Total 180km,1,1
+Volkswagen,Golf,e-Golf,25.10.2017,20722,54,7.88,Electricity,Summer tires,1,0,1,Normal,14.6,1,1,38.0,1.9,Restreichweite 102km = Total 156km,0,1
+Volkswagen,Golf,e-Golf,0.988622685,20668,61,9.21,Electricity,Summer tires,1,0,1,Normal,15.1,1,1,46.0,2.4,,0,1
+Volkswagen,Golf,e-Golf,0.946956019,20607,33,4.88,Electricity,Summer tires,1,0,1,Normal,14.8,1,1,45.0,2.1,Aussentemp. 7.5°C,0,1
+Volkswagen,Golf,e-Golf,0.905289352,20574,107,13.37,Electricity,Summer tires,1,0,1,Normal,12.5,0,1,51.0,-0.2,Restreichweite 58km = Total 165km,0,1
+Volkswagen,Golf,e-Golf,0.863622685,20467,88,11.35,Electricity,Summer tires,1,0,1,Normal,12.9,0,1,39.0,0.2,Restreichweite 84km = Total 172km,0,1
+Volkswagen,Golf,e-Golf,0.738622685,20379,53,5.88,Electricity,Summer tires,1,0,1,Normal,11.1,0,1,43.0,-1.6,Restreichweite 145km = Total 197km!,0,1
+Volkswagen,Golf,e-Golf,0.696956019,20326,87,9.74,Electricity,Summer tires,1,0,1,Normal,11.2,0,1,47.0,-1.5,Restreichweite 106km = Total 193km!,0,1
+Volkswagen,Golf,e-Golf,0.613622685,20122,11,1.82,Electricity,Summer tires,1,0,1,Normal,16.6,0,1,48.0,3.9,Restreichweite 163km = Total 174km,0,1
+Volkswagen,Golf,e-Golf,0.571956019,20111,122,14.39,Electricity,Summer tires,1,0,1,Normal,11.8,0,1,44.0,-0.9,Restreichweite 48km = Total 170km ist eine Woche gestanden,0,1
+Volkswagen,Golf,e-Golf,0.196956019,19989,75,10.27,Electricity,Summer tires,1,0,1,Normal,13.7,0,1,51.0,1.0,Restreichweite 91km = Total 166km,0,1
+Volkswagen,Golf,e-Golf,0.113622685,19914,53,7.26,Electricity,Summer tires,1,0,1,Normal,13.7,0,1,58.0,1.0,Restreichweite 117km = Total 170km,0,1
+Volkswagen,Golf,e-Golf,0.071956019,19861,25,3.53,Electricity,Summer tires,1,0,1,Normal,14.1,0,1,50.0,1.4,Restreichweite 155km = Total 180km,0,1
+Volkswagen,Golf,e-Golf,30.09.2017,19836,141,17.2,Electricity,Summer tires,1,0,1,Normal,12.2,0,1,46.0,-0.5,Restreichweite 22km = 163km,0,1
+Volkswagen,Golf,e-Golf,28.09.2017,19695,47,6.2,Electricity,Summer tires,1,0,1,Normal,13.2,0,1,57.0,0.5,Restreichweite 128km = Total 175km,0,1
+Volkswagen,Golf,e-Golf,27.09.2017,19648,102,11.83,Electricity,Summer tires,1,0,1,Normal,11.6,0,1,46.0,-1.1,Restreichweite 85km = Total 187km,0,1
+Volkswagen,Golf,e-Golf,26.09.2017,19546,57,7.23,Electricity,Summer tires,1,0,1,Normal,12.7,0,1,52.0,0.0,Restreichweite 121km = Total 178km,0,1
+Volkswagen,Golf,e-Golf,25.09.2017,19489,29,3.56,Electricity,Summer tires,1,0,1,Normal,12.3,0,1,41.0,-0.4,,0,1
+Volkswagen,Golf,e-Golf,24.09.2017,19460,87,10.0,Electricity,Summer tires,1,0,1,Normal,11.5,1,1,42.0,-1.2,,0,1
+Volkswagen,Golf,e-Golf,0.946261574,19373,83,10.7,Electricity,Summer tires,1,0,1,Normal,12.9,1,1,50.0,0.2,,0,1
+Volkswagen,Golf,e-Golf,0.904594907,19290,84,11.68,Electricity,Summer tires,1,0,1,Normal,13.9,1,1,50.0,1.2,Restreichweite 68km = Total 152km,0,1
+Volkswagen,Golf,e-Golf,0.696261574,19206,69,8.34,Electricity,Summer tires,1,0,1,Normal,12.1,1,1,47.0,-0.6,Restreichweite 113km = Total 182km,0,1
+Volkswagen,Golf,e-Golf,0.654594907,19137,55,6.82,Electricity,Summer tires,1,0,1,Normal,12.4,0,1,44.0,-0.3,Sonnig und 18°C. Restreichweite 130km = Total 185km,0,1
+Volkswagen,Golf,e-Golf,0.612928241,19082,46,6.67,Electricity,Summer tires,1,0,1,Normal,14.5,0,1,50.0,1.8,Regen und 8°C. Restreichweite 117km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.571261574,19036,117,15.56,Electricity,Summer tires,1,0,1,Normal,13.3,0,1,49.0,0.6,Regen und 10°C. Restreichweite 46km = Total 163km,0,1
+Volkswagen,Golf,e-Golf,0.529594907,18919,57,6.56,Electricity,Summer tires,1,0,1,Normal,11.5,0,1,44.0,-1.2,Restreichweite 140km = Total 195km!,0,1
+Volkswagen,Golf,e-Golf,0.487928241,18862,52,6.45,Electricity,Summer tires,1,0,1,Normal,12.4,0,1,41.0,-0.3,Restreichweite 129km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,0.404594907,18810,133,15.69,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,48.0,-0.9,Regen und 15°C. Restreichweite 37km = Total 170km,0,1
+Volkswagen,Golf,e-Golf,0.279594907,18677,71,7.95,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,47.0,-1.5,Restreichweite 125km = Total 196km!,0,1
+Volkswagen,Golf,e-Golf,0.237928241,18606,46,5.57,Electricity,Summer tires,1,0,1,Normal,12.1,1,0,54.0,-0.6,Restreichweite 132km = Total 178km,0,1
+Volkswagen,Golf,e-Golf,0.196261574,18560,129,17.16,Electricity,Summer tires,1,1,1,Normal,13.3,0,0,48.0,0.6,Bewölkt und 16°C. Restreichweite 26km = Total 155km davon 75km Autobahn mit 120km/h und 25min. Stau ,0,1
+Volkswagen,Golf,e-Golf,0.154594907,18431,24,2.86,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,44.0,-0.8,Restreichweite 170km = Total 194km!,0,1
+Volkswagen,Golf,e-Golf,0.112928241,18407,91,11.64,Electricity,Summer tires,1,0,1,Normal,12.8,1,0,48.0,0.1,Regen und 15°C. Restreichweite 81km = Total 172km,0,1
+Volkswagen,Golf,e-Golf,31.08.2017,18316,64,8.44,Electricity,Summer tires,1,0,1,Normal,13.2,1,0,49.0,0.5,Regen und 16°C. Restreichweite 110km = Total 174km,0,1
+Volkswagen,Golf,e-Golf,30.08.2017,18252,72,8.64,Electricity,Summer tires,1,0,1,Normal,12.0,1,0,47.0,-0.7,Leicht bewölkt und 26°C. Restreichweite 105km = Total 177km,0,1
+Volkswagen,Golf,e-Golf,29.08.2017,18180,94,10.9,Electricity,Summer tires,1,1,1,Normal,11.6,1,0,43.0,-1.1,Sonnig und 31°C. Restreichweite 96km = Total 190km!,0,1
+Volkswagen,Golf,e-Golf,28.08.2017,18086,41,4.75,Electricity,Summer tires,1,0,1,Normal,11.6,1,0,40.0,-1.1,Restreichweite 157km = Total 198km!,0,1
+Volkswagen,Golf,e-Golf,27.08.2017,18045,90,10.62,Electricity,Summer tires,1,0,1,Normal,11.8,1,0,40.0,-0.9,Restreichweite 95km = Total 185km,0,1
+Volkswagen,Golf,e-Golf,25.08.2017,17955,80,9.44,Electricity,Summer tires,1,0,1,Normal,11.8,1,0,50.0,-0.9,Sonnig und 28°C. Restkilometer 109km = Total 189km,0,1
+Volkswagen,Golf,e-Golf,0.987233796,17875,66,8.44,Electricity,Summer tires,1,0,1,Normal,12.8,1,0,48.0,0.1,Sonnig 15-29° Restreichweite 115km = Total 181km ,0,1
+Volkswagen,Golf,e-Golf,0.94556713,17809,59,7.02,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,51.0,-0.8,Restreichweite 131km = Total 190km!,0,1
+Volkswagen,Golf,e-Golf,0.903900463,17750,53,6.14,Electricity,Summer tires,1,0,1,Normal,11.6,1,0,46.0,-1.1,Restreichweite 137km = Total 190km!,0,1
+Volkswagen,Golf,e-Golf,0.862233796,17697,136,17.68,Electricity,Summer tires,1,1,1,Normal,13.0,1,0,58.0,0.3,Restreichweite 21km = Total 157km davon ca.60km Autobahn,0,1
+Volkswagen,Golf,e-Golf,0.778900463,17561,81,10.12,Electricity,Summer tires,1,0,1,Normal,12.5,1,0,52.0,-0.2,Restreichweite 106km = Total 187km,0,1
+Volkswagen,Golf,e-Golf,0.737233796,17480,64,7.61,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,46.0,-0.8,Restreichweite 124km = Total 188km,0,1
+Volkswagen,Golf,e-Golf,0.69556713,17416,80,10.0,Electricity,Summer tires,1,0,1,Normal,12.5,1,0,55.0,-0.2,Restreichweite 101km = Total 181km,0,1
+Volkswagen,Golf,e-Golf,0.653900463,17336,101,11.11,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,46.0,-1.7,Restreichweite 96km = Total 197km!,0,1
+Volkswagen,Golf,e-Golf,0.57056713,17235,96,11.32,Electricity,Summer tires,1,0,1,Normal,11.8,1,0,44.0,-0.9,Restreichweite 90km = Total 186km,0,1
+Volkswagen,Golf,e-Golf,0.44556713,17139,75,9.9,Electricity,Summer tires,1,0,1,Normal,13.2,1,0,50.0,0.5,Restreichweite 97km = Total 172km Viel Regen bei 12°C,0,1
+Volkswagen,Golf,e-Golf,0.403900463,17064,66,7.85,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,52.0,-0.8,Restreichweite 122km = Total 188km,0,1
+Volkswagen,Golf,e-Golf,0.278900463,16922,140,15.54,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,43.0,-1.6,Restreichweite 42km = Total 182km,0,1
+Volkswagen,Golf,e-Golf,0.112233796,16782,70,8.33,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,42.0,-0.8,Restreichweite 114km = Total 184km,0,1
+Volkswagen,Golf,e-Golf,30.07.2017,16644,11,1.33,Electricity,Summer tires,1,0,1,Moderate,12.1,1,0,34.0,-0.6,,0,0
+Volkswagen,Golf,e-Golf,0.319872685,16633,127,13.97,Electricity,Summer tires,1,0,1,Moderate,11.0,1,0,49.0,-1.7,Restreichweite 68km = Total 195km,0,0
+Volkswagen,Golf,e-Golf,0.236539352,16506,63,7.62,Electricity,Summer tires,1,0,1,Normal,12.1,1,0,50.0,-0.6,Restreichweite 130km = Total 193km,0,1
+Volkswagen,Golf,e-Golf,0.111539352,16338,53,5.72,Electricity,Summer tires,1,1,1,Moderate,10.8,1,0,53.0,-1.9,Leichtes Gefälle von Winterthur nach Full-Reuenthal,0,0
+Volkswagen,Golf,e-Golf,0.069872685,16210,80,8.56,Electricity,Summer tires,1,0,1,Moderate,10.7,0,0,44.0,-2.0,Restreichweite 120km = Total 200km!,0,0
+Volkswagen,Golf,e-Golf,26.06.2017,15922,90,10.71,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,50.0,-0.8,Restreichweite 103km = Total 193km!,0,1
+Volkswagen,Golf,e-Golf,25.06.2017,15832,75,9.08,Electricity,Summer tires,1,1,1,Normal,12.1,1,0,59.0,-0.6,,0,1
+Volkswagen,Golf,e-Golf,0.985844907,15663,83,9.55,Electricity,Summer tires,1,0,1,Normal,11.5,1,0,44.0,-1.2,Sonnig und 32°C. Restreichweite 108km = Total 191km!,0,1
+Volkswagen,Golf,e-Golf,0.902511574,15534,60,7.38,Electricity,Summer tires,1,0,1,Normal,12.3,1,0,50.0,-0.4,Sonnig und 33°C. Restreichweite 133km = Total 193km!,0,1
